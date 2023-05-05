@@ -3,7 +3,7 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-  redirects: async () => [
+  redirects: () => [
     {
       source: "/",
       destination: "/risk-map",
