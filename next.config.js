@@ -6,6 +6,15 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  redirects: async () => {
+    return [
+      {
+        source: "/",
+        destination: "/risk-map",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
