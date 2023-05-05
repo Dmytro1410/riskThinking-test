@@ -24,7 +24,6 @@ export default function DataTableComponent({ list }) {
         columns={dataTableColumns(riskFactors)}
         disableColumnSelector
         disableRowSelectionOnClick
-        disableSelectionOnClick
         rows={listWithIds}
         rowSelection={false}
         showCellVerticalBorder

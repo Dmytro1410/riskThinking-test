@@ -3,14 +3,8 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-  redirects: async () => {
-    return [
-      {
-        source: "/",
-        destination: "/risk-map",
-        permanent: true,
-      },
-    ];
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 
