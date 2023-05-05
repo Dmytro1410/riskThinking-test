@@ -1,0 +1,5373 @@
+[
+  {
+    "assetName": "Mcknight, Beasley and Stewart",
+    "businessCategory": "Energy",
+    "lat": 46.1351,
+    "lng": -60.1831,
+    "riskFactors": {
+      "drought": 0.03,
+      "tornado": 0.02,
+      "seaLevelRise": 0.04,
+      "volcano": 0.04,
+      "extremeHeat": 0.05,
+      "flooding": 0.05,
+      "wildfire": 0.04
+    },
+    "riskRating": 0.27,
+    "year": "2030"
+  },
+  {
+    "assetName": "Mcknight, Beasley and Stewart",
+    "businessCategory": "Energy",
+    "lat": 46.1351,
+    "lng": -60.1831,
+    "riskFactors": {
+      "flooding": 0.02,
+      "extremeCold": 0.13,
+      "drought": 0.06,
+      "extremeHeat": 0.11,
+      "seaLevelRise": 0.13,
+      "volcano": 0.06,
+      "wildfire": 0.12,
+      "hurricane": 0.02,
+      "earthquake": 0.03
+    },
+    "riskRating": 0.68,
+    "year": "2040"
+  },
+  {
+    "assetName": "Mcknight, Beasley and Stewart",
+    "businessCategory": "Energy",
+    "lat": 46.1351,
+    "lng": -60.1831,
+    "riskFactors": {
+      "flooding": 0.24,
+      "wildfire": 0.25,
+      "earthquake": 0.26,
+      "volcano": 0.23
+    },
+    "riskRating": 0.98,
+    "year": "2060"
+  },
+  {
+    "assetName": "Mcknight, Beasley and Stewart",
+    "businessCategory": "Energy",
+    "lat": 46.1351,
+    "lng": -60.1831,
+    "riskFactors": {
+      "earthquake": 0.37,
+      "volcano": 0.26
+    },
+    "riskRating": 0.63,
+    "year": "2070"
+  },
+  {
+    "assetName": "Mcknight, Beasley and Stewart",
+    "businessCategory": "Energy",
+    "lat": 46.1351,
+    "lng": -60.1831,
+    "riskFactors": {
+      "earthquake": 0.06
+    },
+    "riskRating": 0.06,
+    "year": "2050"
+  },
+  {
+    "assetName": "Acevedo-Kennedy",
+    "businessCategory": "Technology",
+    "lat": 50.26729,
+    "lng": -119.27337,
+    "riskFactors": {
+      "seaLevelRise": 0,
+      "drought": 0.01,
+      "tornado": 0,
+      "earthquake": 0.01,
+      "hurricane": 0.01,
+      "wildfire": 0.01,
+      "flooding": 0.01,
+      "volcano": 0,
+      "extremeCold": 0,
+      "extremeHeat": 0.01
+    },
+    "riskRating": 0.06,
+    "year": "2030"
+  },
+  {
+    "assetName": "Acevedo-Kennedy",
+    "businessCategory": "Technology",
+    "lat": 50.26729,
+    "lng": -119.27337,
+    "riskFactors": {
+      "earthquake": 0.04,
+      "extremeHeat": 0.07,
+      "hurricane": 0.06,
+      "wildfire": 0.06,
+      "volcano": 0.02,
+      "drought": 0.06,
+      "extremeCold": 0.05,
+      "flooding": 0.02,
+      "seaLevelRise": 0.04
+    },
+    "riskRating": 0.42,
+    "year": "2040"
+  },
+  {
+    "assetName": "Acevedo-Kennedy",
+    "businessCategory": "Technology",
+    "lat": 50.26729,
+    "lng": -119.27337,
+    "riskFactors": {
+      "earthquake": 0.02,
+      "seaLevelRise": 0.01,
+      "extremeCold": 0.02
+    },
+    "riskRating": 0.05,
+    "year": "2060"
+  },
+  {
+    "assetName": "Acevedo-Kennedy",
+    "businessCategory": "Technology",
+    "lat": 50.26729,
+    "lng": -119.27337,
+    "riskFactors": {
+      "extremeCold": 0.01,
+      "drought": 0.04,
+      "flooding": 0.01,
+      "volcano": 0.02,
+      "earthquake": 0.04,
+      "extremeHeat": 0.01,
+      "hurricane": 0.01,
+      "tornado": 0.02,
+      "wildfire": 0.05
+    },
+    "riskRating": 0.21,
+    "year": "2070"
+  },
+  {
+    "assetName": "Acevedo-Kennedy",
+    "businessCategory": "Technology",
+    "lat": 50.26729,
+    "lng": -119.27337,
+    "riskFactors": {
+      "extremeHeat": 0.01,
+      "wildfire": 0.04,
+      "tornado": 0.03,
+      "flooding": 0.02,
+      "volcano": 0.01,
+      "hurricane": 0.02,
+      "earthquake": 0.01
+    },
+    "riskRating": 0.14,
+    "year": "2050"
+  },
+  {
+    "assetName": "Ware PLC",
+    "businessCategory": "Retail",
+    "lat": 45.44868,
+    "lng": -73.81669,
+    "riskFactors": {
+      "earthquake": 0.24
+    },
+    "riskRating": 0.24,
+    "year": "2040"
+  },
+  {
+    "assetName": "Ware PLC",
+    "businessCategory": "Retail",
+    "lat": 45.44868,
+    "lng": -73.81669,
+    "riskFactors": {
+      "flooding": 0.03,
+      "tornado": 0.11,
+      "seaLevelRise": 0.12,
+      "extremeCold": 0.01,
+      "hurricane": 0.02,
+      "wildfire": 0.17
+    },
+    "riskRating": 0.46,
+    "year": "2050"
+  },
+  {
+    "assetName": "Ware PLC",
+    "businessCategory": "Retail",
+    "lat": 45.44868,
+    "lng": -73.81669,
+    "riskFactors": {
+      "hurricane": 0.08,
+      "wildfire": 0.16,
+      "earthquake": 0.16,
+      "extremeHeat": 0.03,
+      "tornado": 0.01,
+      "flooding": 0.18,
+      "drought": 0.1,
+      "seaLevelRise": 0.03
+    },
+    "riskRating": 0.75,
+    "year": "2060"
+  },
+  {
+    "assetName": "Ware PLC",
+    "businessCategory": "Retail",
+    "lat": 45.44868,
+    "lng": -73.81669,
+    "riskFactors": {
+      "drought": 0.04,
+      "volcano": 0.04,
+      "seaLevelRise": 0,
+      "hurricane": 0.01,
+      "extremeHeat": 0.06,
+      "earthquake": 0.11,
+      "tornado": 0.05,
+      "flooding": 0.02,
+      "extremeCold": 0.09,
+      "wildfire": 0.06
+    },
+    "riskRating": 0.48,
+    "year": "2070"
+  },
+  {
+    "assetName": "Ware PLC",
+    "businessCategory": "Retail",
+    "lat": 45.44868,
+    "lng": -73.81669,
+    "riskFactors": {
+      "hurricane": 0.02,
+      "extremeHeat": 0.03,
+      "tornado": 0.06,
+      "wildfire": 0.02,
+      "flooding": 0.05,
+      "drought": 0.02,
+      "volcano": 0.06,
+      "extremeCold": 0.05,
+      "earthquake": 0.04,
+      "seaLevelRise": 0.01
+    },
+    "riskRating": 0.36,
+    "year": "2030"
+  },
+  {
+    "assetName": "Jones Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 42.8334,
+    "lng": -80.38297,
+    "riskFactors": {
+      "earthquake": 0.03,
+      "volcano": 0.01,
+      "wildfire": 0.01,
+      "extremeHeat": 0.01,
+      "extremeCold": 0,
+      "tornado": 0.01,
+      "seaLevelRise": 0.01,
+      "flooding": 0
+    },
+    "riskRating": 0.08,
+    "year": "2030"
+  },
+  {
+    "assetName": "Jones Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 42.8334,
+    "lng": -80.38297,
+    "riskFactors": {
+      "hurricane": 0.04,
+      "volcano": 0,
+      "tornado": 0.02,
+      "extremeCold": 0.02,
+      "earthquake": 0.03,
+      "drought": 0.01,
+      "flooding": 0.02,
+      "seaLevelRise": 0.01,
+      "extremeHeat": 0.05
+    },
+    "riskRating": 0.2,
+    "year": "2040"
+  },
+  {
+    "assetName": "Jones Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 42.8334,
+    "lng": -80.38297,
+    "riskFactors": {
+      "drought": 0.09,
+      "volcano": 0.11,
+      "extremeCold": 0.03,
+      "extremeHeat": 0.07,
+      "flooding": 0.09,
+      "seaLevelRise": 0.1,
+      "hurricane": 0.11,
+      "earthquake": 0,
+      "tornado": 0.07
+    },
+    "riskRating": 0.67,
+    "year": "2050"
+  },
+  {
+    "assetName": "Jones Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 42.8334,
+    "lng": -80.38297,
+    "riskFactors": {
+      "extremeHeat": 0.02,
+      "seaLevelRise": 0,
+      "tornado": 0,
+      "flooding": 0,
+      "wildfire": 0,
+      "hurricane": 0,
+      "extremeCold": 0,
+      "drought": 0
+    },
+    "riskRating": 0.02,
+    "year": "2070"
+  },
+  {
+    "assetName": "Jones Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 42.8334,
+    "lng": -80.38297,
+    "riskFactors": {
+      "drought": 0.69
+    },
+    "riskRating": 0.69,
+    "year": "2060"
+  },
+  {
+    "assetName": "Willis-Newman",
+    "businessCategory": "Energy",
+    "lat": 53.51684,
+    "lng": -113.3187,
+    "riskFactors": {
+      "seaLevelRise": 0.23
+    },
+    "riskRating": 0.23,
+    "year": "2030"
+  },
+  {
+    "assetName": "Willis-Newman",
+    "businessCategory": "Energy",
+    "lat": 53.51684,
+    "lng": -113.3187,
+    "riskFactors": {
+      "volcano": 0,
+      "drought": 0.03,
+      "earthquake": 0.04,
+      "hurricane": 0.11,
+      "extremeHeat": 0.08,
+      "tornado": 0.03
+    },
+    "riskRating": 0.29,
+    "year": "2040"
+  },
+  {
+    "assetName": "Willis-Newman",
+    "businessCategory": "Energy",
+    "lat": 53.51684,
+    "lng": -113.3187,
+    "riskFactors": {
+      "extremeCold": 0.04,
+      "extremeHeat": 0.05,
+      "volcano": 0.1,
+      "wildfire": 0.04,
+      "drought": 0.03,
+      "tornado": 0.1,
+      "flooding": 0.08,
+      "seaLevelRise": 0.06,
+      "earthquake": 0.07,
+      "hurricane": 0.01
+    },
+    "riskRating": 0.58,
+    "year": "2060"
+  },
+  {
+    "assetName": "Willis-Newman",
+    "businessCategory": "Energy",
+    "lat": 53.51684,
+    "lng": -113.3187,
+    "riskFactors": {
+      "drought": 0.02,
+      "volcano": 0.02,
+      "earthquake": 0.05,
+      "flooding": 0.03,
+      "seaLevelRise": 0.04,
+      "extremeCold": 0.05,
+      "hurricane": 0.04,
+      "extremeHeat": 0.02,
+      "wildfire": 0.06
+    },
+    "riskRating": 0.33,
+    "year": "2070"
+  },
+  {
+    "assetName": "Willis-Newman",
+    "businessCategory": "Energy",
+    "lat": 53.51684,
+    "lng": -113.3187,
+    "riskFactors": {
+      "extremeHeat": 0.03,
+      "drought": 0,
+      "seaLevelRise": 0.05,
+      "earthquake": 0.06,
+      "flooding": 0.07,
+      "wildfire": 0.09,
+      "hurricane": 0.07,
+      "extremeCold": 0.09
+    },
+    "riskRating": 0.46,
+    "year": "2050"
+  },
+  {
+    "assetName": "Bender, Warren and Sanchez",
+    "businessCategory": "Healthcare",
+    "lat": 45.44279,
+    "lng": -73.88094,
+    "riskFactors": {
+      "hurricane": 0.060000000000000005,
+      "tornado": 0.14,
+      "extremeHeat": 0.12,
+      "seaLevelRise": 0.03,
+      "extremeCold": 0.08,
+      "earthquake": 0.09,
+      "drought": 0.01,
+      "volcano": 0.12
+    },
+    "riskRating": 0.65,
+    "year": "2030"
+  },
+  {
+    "assetName": "Bender, Warren and Sanchez",
+    "businessCategory": "Healthcare",
+    "lat": 45.44279,
+    "lng": -73.88094,
+    "riskFactors": {
+      "extremeHeat": 0.06,
+      "earthquake": 0.02,
+      "drought": 0,
+      "flooding": 0.01,
+      "volcano": 0.07,
+      "seaLevelRise": 0.08,
+      "wildfire": 0.02,
+      "extremeCold": 0.05,
+      "tornado": 0.02,
+      "hurricane": 0.06
+    },
+    "riskRating": 0.39,
+    "year": "2040"
+  },
+  {
+    "assetName": "Bender, Warren and Sanchez",
+    "businessCategory": "Healthcare",
+    "lat": 45.44279,
+    "lng": -73.88094,
+    "riskFactors": {
+      "extremeHeat": 0.99
+    },
+    "riskRating": 0.99,
+    "year": "2050"
+  },
+  {
+    "assetName": "Bender, Warren and Sanchez",
+    "businessCategory": "Healthcare",
+    "lat": 45.44279,
+    "lng": -73.88094,
+    "riskFactors": {
+      "seaLevelRise": 0.03,
+      "volcano": 0.08,
+      "drought": 0.07,
+      "extremeHeat": 0.03,
+      "wildfire": 0.09,
+      "flooding": 0.02,
+      "hurricane": 0.07
+    },
+    "riskRating": 0.39,
+    "year": "2060"
+  },
+  {
+    "assetName": "Bender, Warren and Sanchez",
+    "businessCategory": "Healthcare",
+    "lat": 45.44279,
+    "lng": -73.88094,
+    "riskFactors": {
+      "earthquake": 0.06999999999999999,
+      "seaLevelRise": 0.06,
+      "tornado": 0.05,
+      "drought": 0.1,
+      "wildfire": 0.15,
+      "extremeCold": 0.04,
+      "extremeHeat": 0.06,
+      "volcano": 0.11,
+      "hurricane": 0.03
+    },
+    "riskRating": 0.67,
+    "year": "2070"
+  },
+  {
+    "assetName": "Johnson and Sons",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83283,
+    "lng": -80.36335,
+    "riskFactors": {
+      "hurricane": 0.05
+    },
+    "riskRating": 0.05,
+    "year": "2040"
+  },
+  {
+    "assetName": "Johnson and Sons",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83283,
+    "lng": -80.36335,
+    "riskFactors": {
+      "hurricane": 0.26,
+      "extremeCold": 0.06,
+      "volcano": 0.33,
+      "wildfire": 0.12
+    },
+    "riskRating": 0.77,
+    "year": "2050"
+  },
+  {
+    "assetName": "Johnson and Sons",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83283,
+    "lng": -80.36335,
+    "riskFactors": {
+      "seaLevelRise": 0.01,
+      "extremeHeat": 0.01,
+      "extremeCold": 0.01,
+      "earthquake": 0.04,
+      "drought": 0.06,
+      "tornado": 0.05,
+      "hurricane": 0.02,
+      "flooding": 0.06
+    },
+    "riskRating": 0.26,
+    "year": "2060"
+  },
+  {
+    "assetName": "Johnson and Sons",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83283,
+    "lng": -80.36335,
+    "riskFactors": {
+      "hurricane": 0.02,
+      "extremeHeat": 0.25,
+      "earthquake": 0.25
+    },
+    "riskRating": 0.52,
+    "year": "2070"
+  },
+  {
+    "assetName": "Johnson and Sons",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83283,
+    "lng": -80.36335,
+    "riskFactors": {
+      "seaLevelRise": 0.07,
+      "wildfire": 0.1,
+      "hurricane": 0.31
+    },
+    "riskRating": 0.48,
+    "year": "2030"
+  },
+  {
+    "assetName": "Mejia, Roberts and Gay",
+    "businessCategory": "Energy",
+    "lat": 46.13453,
+    "lng": -60.17254,
+    "riskFactors": {
+      "hurricane": 0.08,
+      "drought": 0.04,
+      "extremeHeat": 0.07,
+      "volcano": 0.07,
+      "extremeCold": 0.02
+    },
+    "riskRating": 0.28,
+    "year": "2030"
+  },
+  {
+    "assetName": "Mejia, Roberts and Gay",
+    "businessCategory": "Energy",
+    "lat": 46.13453,
+    "lng": -60.17254,
+    "riskFactors": {
+      "wildfire": 0.44,
+      "extremeCold": 0.13,
+      "drought": 0.22
+    },
+    "riskRating": 0.79,
+    "year": "2040"
+  },
+  {
+    "assetName": "Mejia, Roberts and Gay",
+    "businessCategory": "Energy",
+    "lat": 46.13453,
+    "lng": -60.17254,
+    "riskFactors": {
+      "earthquake": 0.03,
+      "drought": 0.03,
+      "volcano": 0.02,
+      "wildfire": 0.01,
+      "tornado": 0.01,
+      "hurricane": 0,
+      "seaLevelRise": 0.01
+    },
+    "riskRating": 0.11,
+    "year": "2060"
+  },
+  {
+    "assetName": "Mejia, Roberts and Gay",
+    "businessCategory": "Energy",
+    "lat": 46.13453,
+    "lng": -60.17254,
+    "riskFactors": {
+      "hurricane": 0.05,
+      "volcano": 0.29,
+      "tornado": 0.39,
+      "flooding": 0.04
+    },
+    "riskRating": 0.77,
+    "year": "2070"
+  },
+  {
+    "assetName": "Mejia, Roberts and Gay",
+    "businessCategory": "Energy",
+    "lat": 46.13453,
+    "lng": -60.17254,
+    "riskFactors": {
+      "volcano": 0,
+      "hurricane": 0,
+      "drought": 0,
+      "tornado": 0.01,
+      "extremeHeat": 0.01
+    },
+    "riskRating": 0.02,
+    "year": "2050"
+  },
+  {
+    "assetName": "Flynn-Anderson",
+    "businessCategory": "Finance",
+    "lat": 45.40008,
+    "lng": -73.58248,
+    "riskFactors": {
+      "wildfire": 0,
+      "earthquake": 0.01,
+      "volcano": 0.07,
+      "tornado": 0.07,
+      "seaLevelRise": 0.05,
+      "extremeCold": 0.06,
+      "drought": 0.05
+    },
+    "riskRating": 0.31,
+    "year": "2040"
+  },
+  {
+    "assetName": "Flynn-Anderson",
+    "businessCategory": "Finance",
+    "lat": 45.40008,
+    "lng": -73.58248,
+    "riskFactors": {
+      "extremeCold": 0.03,
+      "earthquake": 0.01,
+      "volcano": 0.05,
+      "drought": 0.03,
+      "seaLevelRise": 0.03,
+      "hurricane": 0.01,
+      "flooding": 0.01,
+      "tornado": 0.06,
+      "extremeHeat": 0.03
+    },
+    "riskRating": 0.26,
+    "year": "2050"
+  },
+  {
+    "assetName": "Flynn-Anderson",
+    "businessCategory": "Finance",
+    "lat": 45.40008,
+    "lng": -73.58248,
+    "riskFactors": {
+      "hurricane": 0.08,
+      "earthquake": 0.07,
+      "extremeHeat": 0.03,
+      "wildfire": 0.06,
+      "tornado": 0.01,
+      "flooding": 0.09
+    },
+    "riskRating": 0.34,
+    "year": "2060"
+  },
+  {
+    "assetName": "Flynn-Anderson",
+    "businessCategory": "Finance",
+    "lat": 45.40008,
+    "lng": -73.58248,
+    "riskFactors": {
+      "seaLevelRise": 0.05,
+      "flooding": 0.41,
+      "extremeCold": 0.24,
+      "drought": 0.01,
+      "earthquake": 0.02
+    },
+    "riskRating": 0.73,
+    "year": "2070"
+  },
+  {
+    "assetName": "Flynn-Anderson",
+    "businessCategory": "Finance",
+    "lat": 45.40008,
+    "lng": -73.58248,
+    "riskFactors": {
+      "extremeHeat": 0.56,
+      "hurricane": 0.04
+    },
+    "riskRating": 0.6,
+    "year": "2030"
+  },
+  {
+    "assetName": "Thomas-Chavez",
+    "businessCategory": "Finance",
+    "lat": 42.83663,
+    "lng": -80.38919,
+    "riskFactors": {
+      "volcano": 0.13999999999999999,
+      "flooding": 0.01,
+      "hurricane": 0.09,
+      "drought": 0.02,
+      "wildfire": 0.31,
+      "seaLevelRise": 0.23
+    },
+    "riskRating": 0.8,
+    "year": "2030"
+  },
+  {
+    "assetName": "Thomas-Chavez",
+    "businessCategory": "Finance",
+    "lat": 42.83663,
+    "lng": -80.38919,
+    "riskFactors": {
+      "seaLevelRise": 0.15,
+      "earthquake": 0.21,
+      "drought": 0.15,
+      "tornado": 0.18
+    },
+    "riskRating": 0.69,
+    "year": "2040"
+  },
+  {
+    "assetName": "Thomas-Chavez",
+    "businessCategory": "Finance",
+    "lat": 42.83663,
+    "lng": -80.38919,
+    "riskFactors": {
+      "volcano": 0.01,
+      "extremeHeat": 0.02,
+      "drought": 0.02,
+      "wildfire": 0.02,
+      "seaLevelRise": 0.02,
+      "tornado": 0,
+      "earthquake": 0.01,
+      "hurricane": 0.02,
+      "flooding": 0.01
+    },
+    "riskRating": 0.13,
+    "year": "2060"
+  },
+  {
+    "assetName": "Thomas-Chavez",
+    "businessCategory": "Finance",
+    "lat": 42.83663,
+    "lng": -80.38919,
+    "riskFactors": {
+      "seaLevelRise": 0.11,
+      "earthquake": 0.08,
+      "extremeCold": 0.1,
+      "extremeHeat": 0.1,
+      "hurricane": 0.07,
+      "wildfire": 0.02,
+      "drought": 0.09,
+      "tornado": 0.04,
+      "volcano": 0.08
+    },
+    "riskRating": 0.69,
+    "year": "2070"
+  },
+  {
+    "assetName": "Thomas-Chavez",
+    "businessCategory": "Finance",
+    "lat": 42.83663,
+    "lng": -80.38919,
+    "riskFactors": {
+      "earthquake": 0.04,
+      "tornado": 0.13,
+      "drought": 0.11,
+      "flooding": 0.08,
+      "extremeCold": 0.08,
+      "seaLevelRise": 0.04,
+      "wildfire": 0.08,
+      "extremeHeat": 0.14,
+      "volcano": 0.15
+    },
+    "riskRating": 0.85,
+    "year": "2050"
+  },
+  {
+    "assetName": "Reid PLC",
+    "businessCategory": "Energy",
+    "lat": 45.44911,
+    "lng": -73.87067,
+    "riskFactors": {
+      "extremeHeat": 0.16,
+      "drought": 0.09,
+      "volcano": 0.04,
+      "earthquake": 0.07,
+      "hurricane": 0,
+      "tornado": 0.06,
+      "extremeCold": 0.08,
+      "wildfire": 0.08,
+      "flooding": 0.22,
+      "seaLevelRise": 0.13
+    },
+    "riskRating": 0.93,
+    "year": "2030"
+  },
+  {
+    "assetName": "Reid PLC",
+    "businessCategory": "Energy",
+    "lat": 45.44911,
+    "lng": -73.87067,
+    "riskFactors": {
+      "flooding": 0.06,
+      "volcano": 0.05,
+      "wildfire": 0.05,
+      "extremeCold": 0.02,
+      "hurricane": 0.03
+    },
+    "riskRating": 0.21,
+    "year": "2040"
+  },
+  {
+    "assetName": "Reid PLC",
+    "businessCategory": "Energy",
+    "lat": 45.44911,
+    "lng": -73.87067,
+    "riskFactors": {
+      "flooding": 0,
+      "tornado": 0.01,
+      "earthquake": 0.01,
+      "volcano": 0.01,
+      "drought": 0.01,
+      "extremeHeat": 0,
+      "extremeCold": 0,
+      "wildfire": 0.01
+    },
+    "riskRating": 0.05,
+    "year": "2050"
+  },
+  {
+    "assetName": "Reid PLC",
+    "businessCategory": "Energy",
+    "lat": 45.44911,
+    "lng": -73.87067,
+    "riskFactors": {
+      "tornado": 0.04,
+      "hurricane": 0.04,
+      "flooding": 0.04,
+      "wildfire": 0.02,
+      "extremeCold": 0,
+      "seaLevelRise": 0.01,
+      "volcano": 0.01
+    },
+    "riskRating": 0.16,
+    "year": "2070"
+  },
+  {
+    "assetName": "Reid PLC",
+    "businessCategory": "Energy",
+    "lat": 45.44911,
+    "lng": -73.87067,
+    "riskFactors": {
+      "volcano": 0.23,
+      "drought": 0.09,
+      "hurricane": 0.06,
+      "extremeHeat": 0.06,
+      "wildfire": 0.14,
+      "tornado": 0.03
+    },
+    "riskRating": 0.61,
+    "year": "2060"
+  },
+  {
+    "assetName": "Hall, Meadows and Anderson",
+    "businessCategory": "Technology",
+    "lat": 46.1337,
+    "lng": -60.1706,
+    "riskFactors": {
+      "tornado": 0.04,
+      "volcano": 0.05,
+      "hurricane": 0.16,
+      "extremeHeat": 0.03,
+      "seaLevelRise": 0.17,
+      "wildfire": 0.14,
+      "earthquake": 0.04,
+      "extremeCold": 0.1,
+      "flooding": 0.15
+    },
+    "riskRating": 0.88,
+    "year": "2030"
+  },
+  {
+    "assetName": "Hall, Meadows and Anderson",
+    "businessCategory": "Technology",
+    "lat": 46.1337,
+    "lng": -60.1706,
+    "riskFactors": {
+      "earthquake": 0.09,
+      "flooding": 0.04,
+      "volcano": 0.07,
+      "wildfire": 0.06,
+      "hurricane": 0.05,
+      "drought": 0.05,
+      "extremeHeat": 0.09,
+      "extremeCold": 0.05
+    },
+    "riskRating": 0.5,
+    "year": "2040"
+  },
+  {
+    "assetName": "Hall, Meadows and Anderson",
+    "businessCategory": "Technology",
+    "lat": 46.1337,
+    "lng": -60.1706,
+    "riskFactors": {
+      "flooding": 0.02,
+      "extremeCold": 0.02,
+      "hurricane": 0.02
+    },
+    "riskRating": 0.06,
+    "year": "2050"
+  },
+  {
+    "assetName": "Hall, Meadows and Anderson",
+    "businessCategory": "Technology",
+    "lat": 46.1337,
+    "lng": -60.1706,
+    "riskFactors": {
+      "earthquake": 0.01,
+      "seaLevelRise": 0,
+      "volcano": 0.01,
+      "flooding": 0.02
+    },
+    "riskRating": 0.04,
+    "year": "2060"
+  },
+  {
+    "assetName": "Hall, Meadows and Anderson",
+    "businessCategory": "Technology",
+    "lat": 46.1337,
+    "lng": -60.1706,
+    "riskFactors": {
+      "tornado": 0.15,
+      "flooding": 0.03
+    },
+    "riskRating": 0.18,
+    "year": "2070"
+  },
+  {
+    "assetName": "Miller-Norris",
+    "businessCategory": "Energy",
+    "lat": 50.26041,
+    "lng": -119.27559,
+    "riskFactors": {
+      "seaLevelRise": 0.1,
+      "volcano": 0.33,
+      "extremeCold": 0.25,
+      "tornado": 0.06,
+      "hurricane": 0.06
+    },
+    "riskRating": 0.8,
+    "year": "2030"
+  },
+  {
+    "assetName": "Miller-Norris",
+    "businessCategory": "Energy",
+    "lat": 50.26041,
+    "lng": -119.27559,
+    "riskFactors": {
+      "drought": 0.019999999999999997,
+      "extremeHeat": 0.02,
+      "hurricane": 0.03,
+      "earthquake": 0.01,
+      "seaLevelRise": 0.03,
+      "volcano": 0.03,
+      "flooding": 0.02
+    },
+    "riskRating": 0.16,
+    "year": "2040"
+  },
+  {
+    "assetName": "Miller-Norris",
+    "businessCategory": "Energy",
+    "lat": 50.26041,
+    "lng": -119.27559,
+    "riskFactors": {
+      "seaLevelRise": 0.14,
+      "volcano": 0.08,
+      "earthquake": 0.07,
+      "extremeHeat": 0.12,
+      "extremeCold": 0.16
+    },
+    "riskRating": 0.57,
+    "year": "2050"
+  },
+  {
+    "assetName": "Miller-Norris",
+    "businessCategory": "Energy",
+    "lat": 50.26041,
+    "lng": -119.27559,
+    "riskFactors": {
+      "flooding": 0.01,
+      "wildfire": 0.01,
+      "volcano": 0.01,
+      "hurricane": 0,
+      "earthquake": 0.02,
+      "tornado": 0.02,
+      "extremeHeat": 0.02,
+      "drought": 0
+    },
+    "riskRating": 0.09,
+    "year": "2060"
+  },
+  {
+    "assetName": "Miller-Norris",
+    "businessCategory": "Energy",
+    "lat": 50.26041,
+    "lng": -119.27559,
+    "riskFactors": {
+      "extremeCold": 0.05,
+      "volcano": 0.1,
+      "earthquake": 0.06,
+      "hurricane": 0.11,
+      "tornado": 0.12,
+      "seaLevelRise": 0.04,
+      "extremeHeat": 0.05,
+      "drought": 0.09,
+      "wildfire": 0.14
+    },
+    "riskRating": 0.76,
+    "year": "2070"
+  },
+  {
+    "assetName": "Landry, Molina and Green",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83451,
+    "lng": -80.36252,
+    "riskFactors": {
+      "seaLevelRise": 0.03,
+      "volcano": 0.06,
+      "extremeCold": 0.24,
+      "earthquake": 0.11,
+      "extremeHeat": 0.25,
+      "hurricane": 0.06
+    },
+    "riskRating": 0.75,
+    "year": "2030"
+  },
+  {
+    "assetName": "Landry, Molina and Green",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83451,
+    "lng": -80.36252,
+    "riskFactors": {
+      "drought": 0.31
+    },
+    "riskRating": 0.31,
+    "year": "2040"
+  },
+  {
+    "assetName": "Landry, Molina and Green",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83451,
+    "lng": -80.36252,
+    "riskFactors": {
+      "volcano": 0.16,
+      "wildfire": 0.11,
+      "hurricane": 0.08,
+      "extremeCold": 0.16,
+      "drought": 0.03,
+      "flooding": 0.02,
+      "earthquake": 0.09,
+      "seaLevelRise": 0.06,
+      "tornado": 0.13
+    },
+    "riskRating": 0.84,
+    "year": "2050"
+  },
+  {
+    "assetName": "Landry, Molina and Green",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83451,
+    "lng": -80.36252,
+    "riskFactors": {
+      "volcano": 0.29,
+      "drought": 0.3,
+      "tornado": 0.33
+    },
+    "riskRating": 0.92,
+    "year": "2070"
+  },
+  {
+    "assetName": "Landry, Molina and Green",
+    "businessCategory": "Manufacturing",
+    "lat": 42.83451,
+    "lng": -80.36252,
+    "riskFactors": {
+      "tornado": 0.02,
+      "extremeHeat": 0.03,
+      "seaLevelRise": 0,
+      "earthquake": 0.04,
+      "hurricane": 0.03,
+      "extremeCold": 0.03,
+      "volcano": 0.03,
+      "flooding": 0
+    },
+    "riskRating": 0.18,
+    "year": "2060"
+  },
+  {
+    "assetName": "Banks-Carlson",
+    "businessCategory": "Technology",
+    "lat": 53.52281,
+    "lng": -113.31805,
+    "riskFactors": {
+      "earthquake": 0.01,
+      "seaLevelRise": 0.01,
+      "drought": 0
+    },
+    "riskRating": 0.02,
+    "year": "2030"
+  },
+  {
+    "assetName": "Banks-Carlson",
+    "businessCategory": "Technology",
+    "lat": 53.52281,
+    "lng": -113.31805,
+    "riskFactors": {
+      "hurricane": 0.17,
+      "extremeHeat": 0.02,
+      "seaLevelRise": 0.16,
+      "tornado": 0.13,
+      "flooding": 0.12,
+      "volcano": 0.19,
+      "extremeCold": 0.13,
+      "drought": 0.03
+    },
+    "riskRating": 0.95,
+    "year": "2050"
+  },
+  {
+    "assetName": "Banks-Carlson",
+    "businessCategory": "Technology",
+    "lat": 53.52281,
+    "lng": -113.31805,
+    "riskFactors": {
+      "earthquake": 0.02,
+      "drought": 0,
+      "tornado": 0,
+      "flooding": 0,
+      "volcano": 0,
+      "hurricane": 0,
+      "extremeCold": 0,
+      "wildfire": 0,
+      "seaLevelRise": 0,
+      "extremeHeat": 0
+    },
+    "riskRating": 0.02,
+    "year": "2060"
+  },
+  {
+    "assetName": "Banks-Carlson",
+    "businessCategory": "Technology",
+    "lat": 53.52281,
+    "lng": -113.31805,
+    "riskFactors": {
+      "extremeCold": 0.12000000000000001,
+      "seaLevelRise": 0.08,
+      "tornado": 0.04,
+      "drought": 0.12,
+      "flooding": 0.13,
+      "extremeHeat": 0.01,
+      "volcano": 0.07,
+      "wildfire": 0.01,
+      "hurricane": 0.08
+    },
+    "riskRating": 0.66,
+    "year": "2070"
+  },
+  {
+    "assetName": "Banks-Carlson",
+    "businessCategory": "Technology",
+    "lat": 53.52281,
+    "lng": -113.31805,
+    "riskFactors": {
+      "volcano": 0.12,
+      "flooding": 0.1,
+      "earthquake": 0.08
+    },
+    "riskRating": 0.3,
+    "year": "2040"
+  },
+  {
+    "assetName": "Taylor, Mitchell and Ward",
+    "businessCategory": "Technology",
+    "lat": 46.23899,
+    "lng": -63.13414,
+    "riskFactors": {
+      "wildfire": 0.01,
+      "tornado": 0.01,
+      "extremeCold": 0.01,
+      "seaLevelRise": 0.02,
+      "flooding": 0.01,
+      "drought": 0.01,
+      "earthquake": 0.02,
+      "volcano": 0.02,
+      "hurricane": 0.02
+    },
+    "riskRating": 0.13,
+    "year": "2030"
+  },
+  {
+    "assetName": "Taylor, Mitchell and Ward",
+    "businessCategory": "Technology",
+    "lat": 46.23899,
+    "lng": -63.13414,
+    "riskFactors": {
+      "flooding": 0.03,
+      "wildfire": 0.01,
+      "tornado": 0.01,
+      "extremeCold": 0.01,
+      "extremeHeat": 0.01,
+      "hurricane": 0.02
+    },
+    "riskRating": 0.09,
+    "year": "2040"
+  },
+  {
+    "assetName": "Taylor, Mitchell and Ward",
+    "businessCategory": "Technology",
+    "lat": 46.23899,
+    "lng": -63.13414,
+    "riskFactors": {
+      "tornado": 0.04,
+      "extremeCold": 0.22,
+      "volcano": 0.22
+    },
+    "riskRating": 0.48,
+    "year": "2060"
+  },
+  {
+    "assetName": "Taylor, Mitchell and Ward",
+    "businessCategory": "Technology",
+    "lat": 46.23899,
+    "lng": -63.13414,
+    "riskFactors": {
+      "hurricane": 0.08,
+      "seaLevelRise": 0.02,
+      "earthquake": 0.08,
+      "volcano": 0.02,
+      "tornado": 0.02,
+      "extremeHeat": 0.01,
+      "drought": 0.02,
+      "wildfire": 0.08,
+      "flooding": 0.03
+    },
+    "riskRating": 0.36,
+    "year": "2070"
+  },
+  {
+    "assetName": "Taylor, Mitchell and Ward",
+    "businessCategory": "Technology",
+    "lat": 46.23899,
+    "lng": -63.13414,
+    "riskFactors": {
+      "flooding": 0,
+      "tornado": 0.01,
+      "extremeHeat": 0.01,
+      "hurricane": 0,
+      "seaLevelRise": 0.01,
+      "extremeCold": 0.01,
+      "wildfire": 0,
+      "drought": 0.01
+    },
+    "riskRating": 0.05,
+    "year": "2050"
+  },
+  {
+    "assetName": "Martin-Jenkins",
+    "businessCategory": "Technology",
+    "lat": 46.23187,
+    "lng": -63.13,
+    "riskFactors": {
+      "earthquake": 0.22,
+      "tornado": 0.33
+    },
+    "riskRating": 0.55,
+    "year": "2030"
+  },
+  {
+    "assetName": "Martin-Jenkins",
+    "businessCategory": "Technology",
+    "lat": 46.23187,
+    "lng": -63.13,
+    "riskFactors": {
+      "extremeHeat": 0.06,
+      "drought": 0.04,
+      "extremeCold": 0.01,
+      "wildfire": 0.02,
+      "flooding": 0.01,
+      "volcano": 0.05,
+      "hurricane": 0.04,
+      "seaLevelRise": 0.05,
+      "tornado": 0.04,
+      "earthquake": 0.01
+    },
+    "riskRating": 0.33,
+    "year": "2040"
+  },
+  {
+    "assetName": "Martin-Jenkins",
+    "businessCategory": "Technology",
+    "lat": 46.23187,
+    "lng": -63.13,
+    "riskFactors": {
+      "flooding": 0.04,
+      "extremeCold": 0.18,
+      "extremeHeat": 0.1,
+      "hurricane": 0.09,
+      "seaLevelRise": 0.13,
+      "earthquake": 0.07
+    },
+    "riskRating": 0.61,
+    "year": "2050"
+  },
+  {
+    "assetName": "Martin-Jenkins",
+    "businessCategory": "Technology",
+    "lat": 46.23187,
+    "lng": -63.13,
+    "riskFactors": {
+      "drought": 0.11,
+      "seaLevelRise": 0.01,
+      "tornado": 0.05,
+      "volcano": 0.11,
+      "extremeHeat": 0.05,
+      "extremeCold": 0.07,
+      "flooding": 0.11,
+      "hurricane": 0.04,
+      "earthquake": 0.03,
+      "wildfire": 0.01
+    },
+    "riskRating": 0.59,
+    "year": "2060"
+  },
+  {
+    "assetName": "Martin-Jenkins",
+    "businessCategory": "Technology",
+    "lat": 46.23187,
+    "lng": -63.13,
+    "riskFactors": {
+      "drought": 0.13,
+      "extremeCold": 0.12,
+      "hurricane": 0.13,
+      "wildfire": 0.02,
+      "seaLevelRise": 0.01,
+      "flooding": 0.15
+    },
+    "riskRating": 0.56,
+    "year": "2070"
+  },
+  {
+    "assetName": "Stanton-Joyce",
+    "businessCategory": "Retail",
+    "lat": 42.84074,
+    "lng": -80.39554,
+    "riskFactors": {
+      "hurricane": 0.07,
+      "flooding": 0.09,
+      "extremeCold": 0.01,
+      "wildfire": 0.11,
+      "volcano": 0.12,
+      "drought": 0.1,
+      "earthquake": 0.04
+    },
+    "riskRating": 0.54,
+    "year": "2040"
+  },
+  {
+    "assetName": "Stanton-Joyce",
+    "businessCategory": "Retail",
+    "lat": 42.84074,
+    "lng": -80.39554,
+    "riskFactors": {
+      "wildfire": 0.21,
+      "earthquake": 0.16,
+      "seaLevelRise": 0.21,
+      "flooding": 0.16,
+      "tornado": 0.19,
+      "extremeHeat": 0.02
+    },
+    "riskRating": 0.95,
+    "year": "2050"
+  },
+  {
+    "assetName": "Stanton-Joyce",
+    "businessCategory": "Retail",
+    "lat": 42.84074,
+    "lng": -80.39554,
+    "riskFactors": {
+      "hurricane": 0.03,
+      "extremeCold": 0
+    },
+    "riskRating": 0.03,
+    "year": "2060"
+  },
+  {
+    "assetName": "Stanton-Joyce",
+    "businessCategory": "Retail",
+    "lat": 42.84074,
+    "lng": -80.39554,
+    "riskFactors": {
+      "flooding": 0.48
+    },
+    "riskRating": 0.48,
+    "year": "2070"
+  },
+  {
+    "assetName": "Stanton-Joyce",
+    "businessCategory": "Retail",
+    "lat": 42.84074,
+    "lng": -80.39554,
+    "riskFactors": {
+      "hurricane": 0.39,
+      "volcano": 0.01
+    },
+    "riskRating": 0.4,
+    "year": "2030"
+  },
+  {
+    "assetName": "Grant-Coffey",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4473,
+    "lng": -73.75335,
+    "riskFactors": {
+      "seaLevelRise": 0.45
+    },
+    "riskRating": 0.45,
+    "year": "2040"
+  },
+  {
+    "assetName": "Grant-Coffey",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4473,
+    "lng": -73.75335,
+    "riskFactors": {
+      "drought": 0.09,
+      "extremeHeat": 0.05,
+      "flooding": 0.06,
+      "hurricane": 0.07,
+      "tornado": 0.03
+    },
+    "riskRating": 0.3,
+    "year": "2050"
+  },
+  {
+    "assetName": "Grant-Coffey",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4473,
+    "lng": -73.75335,
+    "riskFactors": {
+      "flooding": 0.13,
+      "extremeCold": 0.56
+    },
+    "riskRating": 0.69,
+    "year": "2060"
+  },
+  {
+    "assetName": "Grant-Coffey",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4473,
+    "lng": -73.75335,
+    "riskFactors": {
+      "extremeCold": 0.09,
+      "seaLevelRise": 0.07,
+      "extremeHeat": 0.14,
+      "earthquake": 0.15,
+      "drought": 0.14,
+      "wildfire": 0.09,
+      "hurricane": 0.1,
+      "volcano": 0.02
+    },
+    "riskRating": 0.8,
+    "year": "2070"
+  },
+  {
+    "assetName": "Grant-Coffey",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4473,
+    "lng": -73.75335,
+    "riskFactors": {
+      "flooding": 0.28,
+      "hurricane": 0.09,
+      "tornado": 0.31
+    },
+    "riskRating": 0.68,
+    "year": "2030"
+  },
+  {
+    "assetName": "Alvarez Inc",
+    "businessCategory": "Retail",
+    "lat": 46.13487,
+    "lng": -60.16779,
+    "riskFactors": {
+      "seaLevelRise": 0.16,
+      "wildfire": 0.13,
+      "drought": 0.1,
+      "flooding": 0.12,
+      "volcano": 0.11,
+      "extremeHeat": 0.04,
+      "tornado": 0.14,
+      "hurricane": 0.1,
+      "earthquake": 0.03,
+      "extremeCold": 0.02
+    },
+    "riskRating": 0.95,
+    "year": "2030"
+  },
+  {
+    "assetName": "Alvarez Inc",
+    "businessCategory": "Retail",
+    "lat": 46.13487,
+    "lng": -60.16779,
+    "riskFactors": {
+      "earthquake": 0.04,
+      "volcano": 0.08,
+      "flooding": 0.14,
+      "wildfire": 0.04,
+      "tornado": 0.07,
+      "extremeHeat": 0.09,
+      "drought": 0.22
+    },
+    "riskRating": 0.68,
+    "year": "2040"
+  },
+  {
+    "assetName": "Alvarez Inc",
+    "businessCategory": "Retail",
+    "lat": 46.13487,
+    "lng": -60.16779,
+    "riskFactors": {
+      "earthquake": 0.65
+    },
+    "riskRating": 0.65,
+    "year": "2050"
+  },
+  {
+    "assetName": "Alvarez Inc",
+    "businessCategory": "Retail",
+    "lat": 46.13487,
+    "lng": -60.16779,
+    "riskFactors": {
+      "earthquake": 0.049999999999999996,
+      "flooding": 0.06,
+      "extremeCold": 0.01,
+      "tornado": 0.01,
+      "wildfire": 0.06,
+      "hurricane": 0.03
+    },
+    "riskRating": 0.22,
+    "year": "2060"
+  },
+  {
+    "assetName": "Alvarez Inc",
+    "businessCategory": "Retail",
+    "lat": 46.13487,
+    "lng": -60.16779,
+    "riskFactors": {
+      "volcano": 0.73
+    },
+    "riskRating": 0.73,
+    "year": "2070"
+  },
+  {
+    "assetName": "Strickland-Daniels",
+    "businessCategory": "Manufacturing",
+    "lat": 43.86682,
+    "lng": -79.2663,
+    "riskFactors": {
+      "tornado": 0.09,
+      "hurricane": 0.01,
+      "seaLevelRise": 0.31,
+      "volcano": 0.17
+    },
+    "riskRating": 0.58,
+    "year": "2030"
+  },
+  {
+    "assetName": "Strickland-Daniels",
+    "businessCategory": "Manufacturing",
+    "lat": 43.86682,
+    "lng": -79.2663,
+    "riskFactors": {
+      "seaLevelRise": 0.34,
+      "volcano": 0.09,
+      "tornado": 0.1,
+      "wildfire": 0.13
+    },
+    "riskRating": 0.66,
+    "year": "2040"
+  },
+  {
+    "assetName": "Strickland-Daniels",
+    "businessCategory": "Manufacturing",
+    "lat": 43.86682,
+    "lng": -79.2663,
+    "riskFactors": {
+      "earthquake": 0.03,
+      "hurricane": 0.11,
+      "volcano": 0.17
+    },
+    "riskRating": 0.31,
+    "year": "2050"
+  },
+  {
+    "assetName": "Strickland-Daniels",
+    "businessCategory": "Manufacturing",
+    "lat": 43.86682,
+    "lng": -79.2663,
+    "riskFactors": {
+      "extremeCold": 0.34,
+      "drought": 0.29,
+      "seaLevelRise": 0.15
+    },
+    "riskRating": 0.78,
+    "year": "2070"
+  },
+  {
+    "assetName": "Strickland-Daniels",
+    "businessCategory": "Manufacturing",
+    "lat": 43.86682,
+    "lng": -79.2663,
+    "riskFactors": {
+      "extremeCold": 0.04,
+      "tornado": 0.02,
+      "seaLevelRise": 0.12,
+      "earthquake": 0.06,
+      "hurricane": 0.07,
+      "wildfire": 0.12,
+      "volcano": 0.02,
+      "extremeHeat": 0.1
+    },
+    "riskRating": 0.55,
+    "year": "2060"
+  },
+  {
+    "assetName": "Watson, Evans and Smith",
+    "businessCategory": "Technology",
+    "lat": 45.43341,
+    "lng": -73.86586,
+    "riskFactors": {
+      "volcano": 0.24
+    },
+    "riskRating": 0.24,
+    "year": "2040"
+  },
+  {
+    "assetName": "Watson, Evans and Smith",
+    "businessCategory": "Technology",
+    "lat": 45.43341,
+    "lng": -73.86586,
+    "riskFactors": {
+      "earthquake": 0.23,
+      "seaLevelRise": 0.06,
+      "extremeHeat": 0.04,
+      "hurricane": 0.04,
+      "flooding": 0.24,
+      "extremeCold": 0.02,
+      "tornado": 0.19
+    },
+    "riskRating": 0.82,
+    "year": "2050"
+  },
+  {
+    "assetName": "Watson, Evans and Smith",
+    "businessCategory": "Technology",
+    "lat": 45.43341,
+    "lng": -73.86586,
+    "riskFactors": {
+      "tornado": 0.31
+    },
+    "riskRating": 0.31,
+    "year": "2060"
+  },
+  {
+    "assetName": "Watson, Evans and Smith",
+    "businessCategory": "Technology",
+    "lat": 45.43341,
+    "lng": -73.86586,
+    "riskFactors": {
+      "seaLevelRise": 0,
+      "volcano": 0.01,
+      "extremeHeat": 0.01,
+      "extremeCold": 0.01,
+      "earthquake": 0.01,
+      "hurricane": 0.06,
+      "tornado": 0.01,
+      "wildfire": 0.02
+    },
+    "riskRating": 0.13,
+    "year": "2070"
+  },
+  {
+    "assetName": "Watson, Evans and Smith",
+    "businessCategory": "Technology",
+    "lat": 45.43341,
+    "lng": -73.86586,
+    "riskFactors": {
+      "wildfire": 0.15,
+      "hurricane": 0.1,
+      "earthquake": 0.11,
+      "extremeHeat": 0.03,
+      "volcano": 0.16
+    },
+    "riskRating": 0.55,
+    "year": "2030"
+  },
+  {
+    "assetName": "Rivera Inc",
+    "businessCategory": "Finance",
+    "lat": 45.45119,
+    "lng": -73.68119,
+    "riskFactors": {
+      "extremeHeat": 0.04,
+      "extremeCold": 0.23,
+      "flooding": 0.09,
+      "wildfire": 0.17,
+      "hurricane": 0.23
+    },
+    "riskRating": 0.76,
+    "year": "2030"
+  },
+  {
+    "assetName": "Rivera Inc",
+    "businessCategory": "Finance",
+    "lat": 45.45119,
+    "lng": -73.68119,
+    "riskFactors": {
+      "extremeHeat": 0.48
+    },
+    "riskRating": 0.48,
+    "year": "2050"
+  },
+  {
+    "assetName": "Rivera Inc",
+    "businessCategory": "Finance",
+    "lat": 45.45119,
+    "lng": -73.68119,
+    "riskFactors": {
+      "earthquake": 0.07,
+      "wildfire": 0.78
+    },
+    "riskRating": 0.85,
+    "year": "2060"
+  },
+  {
+    "assetName": "Rivera Inc",
+    "businessCategory": "Finance",
+    "lat": 45.45119,
+    "lng": -73.68119,
+    "riskFactors": {
+      "volcano": 0.24,
+      "seaLevelRise": 0.17,
+      "flooding": 0.12
+    },
+    "riskRating": 0.53,
+    "year": "2070"
+  },
+  {
+    "assetName": "Rivera Inc",
+    "businessCategory": "Finance",
+    "lat": 45.45119,
+    "lng": -73.68119,
+    "riskFactors": {
+      "seaLevelRise": 0.92
+    },
+    "riskRating": 0.92,
+    "year": "2040"
+  },
+  {
+    "assetName": "Patel, Norris and Jackson",
+    "businessCategory": "Energy",
+    "lat": 49.88307,
+    "lng": -119.48568,
+    "riskFactors": {
+      "wildfire": 0.039999999999999994,
+      "flooding": 0.01,
+      "tornado": 0.08,
+      "earthquake": 0.04,
+      "extremeHeat": 0.1,
+      "drought": 0.07,
+      "hurricane": 0.09,
+      "volcano": 0.08,
+      "seaLevelRise": 0.03,
+      "extremeCold": 0.01
+    },
+    "riskRating": 0.55,
+    "year": "2030"
+  },
+  {
+    "assetName": "Patel, Norris and Jackson",
+    "businessCategory": "Energy",
+    "lat": 49.88307,
+    "lng": -119.48568,
+    "riskFactors": {
+      "flooding": 0.03,
+      "volcano": 0.03,
+      "hurricane": 0.07,
+      "seaLevelRise": 0.02,
+      "extremeCold": 0.08,
+      "extremeHeat": 0.07,
+      "wildfire": 0.02,
+      "drought": 0.01,
+      "earthquake": 0.06,
+      "tornado": 0.05
+    },
+    "riskRating": 0.44,
+    "year": "2040"
+  },
+  {
+    "assetName": "Patel, Norris and Jackson",
+    "businessCategory": "Energy",
+    "lat": 49.88307,
+    "lng": -119.48568,
+    "riskFactors": {
+      "drought": 0.38,
+      "seaLevelRise": 0.42
+    },
+    "riskRating": 0.8,
+    "year": "2050"
+  },
+  {
+    "assetName": "Patel, Norris and Jackson",
+    "businessCategory": "Energy",
+    "lat": 49.88307,
+    "lng": -119.48568,
+    "riskFactors": {
+      "seaLevelRise": 0.23,
+      "wildfire": 0.23,
+      "hurricane": 0,
+      "extremeCold": 0.14,
+      "tornado": 0.17,
+      "extremeHeat": 0.01
+    },
+    "riskRating": 0.78,
+    "year": "2060"
+  },
+  {
+    "assetName": "Patel, Norris and Jackson",
+    "businessCategory": "Energy",
+    "lat": 49.88307,
+    "lng": -119.48568,
+    "riskFactors": {
+      "flooding": 0.08,
+      "tornado": 0.22,
+      "drought": 0.15,
+      "volcano": 0.11,
+      "extremeHeat": 0.07
+    },
+    "riskRating": 0.63,
+    "year": "2070"
+  },
+  {
+    "assetName": "Zuniga Inc",
+    "businessCategory": "Retail",
+    "lat": 53.52528,
+    "lng": -113.32059,
+    "riskFactors": {
+      "hurricane": 0.01,
+      "seaLevelRise": 0,
+      "flooding": 0,
+      "earthquake": 0,
+      "extremeCold": 0
+    },
+    "riskRating": 0.01,
+    "year": "2030"
+  },
+  {
+    "assetName": "Zuniga Inc",
+    "businessCategory": "Retail",
+    "lat": 53.52528,
+    "lng": -113.32059,
+    "riskFactors": {
+      "wildfire": 0.11,
+      "volcano": 0.1,
+      "extremeHeat": 0.18,
+      "extremeCold": 0.06
+    },
+    "riskRating": 0.45,
+    "year": "2040"
+  },
+  {
+    "assetName": "Zuniga Inc",
+    "businessCategory": "Retail",
+    "lat": 53.52528,
+    "lng": -113.32059,
+    "riskFactors": {
+      "extremeCold": 0.02,
+      "seaLevelRise": 0.25,
+      "wildfire": 0.18,
+      "tornado": 0.07,
+      "extremeHeat": 0.12,
+      "volcano": 0.07,
+      "hurricane": 0.06,
+      "drought": 0.18
+    },
+    "riskRating": 0.95,
+    "year": "2050"
+  },
+  {
+    "assetName": "Zuniga Inc",
+    "businessCategory": "Retail",
+    "lat": 53.52528,
+    "lng": -113.32059,
+    "riskFactors": {
+      "seaLevelRise": 0.61,
+      "extremeHeat": 0.25,
+      "tornado": 0.03
+    },
+    "riskRating": 0.89,
+    "year": "2060"
+  },
+  {
+    "assetName": "Zuniga Inc",
+    "businessCategory": "Retail",
+    "lat": 53.52528,
+    "lng": -113.32059,
+    "riskFactors": {
+      "wildfire": 0.11,
+      "volcano": 0.1,
+      "flooding": 0.16,
+      "earthquake": 0.09
+    },
+    "riskRating": 0.46,
+    "year": "2070"
+  },
+  {
+    "assetName": "Robertson-Petersen",
+    "businessCategory": "Energy",
+    "lat": 49.88381,
+    "lng": -119.49224,
+    "riskFactors": {
+      "drought": 0.61
+    },
+    "riskRating": 0.61,
+    "year": "2030"
+  },
+  {
+    "assetName": "Robertson-Petersen",
+    "businessCategory": "Energy",
+    "lat": 49.88381,
+    "lng": -119.49224,
+    "riskFactors": {
+      "earthquake": 0.11,
+      "drought": 0.3,
+      "extremeCold": 0.23,
+      "flooding": 0.29
+    },
+    "riskRating": 0.93,
+    "year": "2040"
+  },
+  {
+    "assetName": "Robertson-Petersen",
+    "businessCategory": "Energy",
+    "lat": 49.88381,
+    "lng": -119.49224,
+    "riskFactors": {
+      "extremeCold": 0.37,
+      "flooding": 0.02
+    },
+    "riskRating": 0.39,
+    "year": "2050"
+  },
+  {
+    "assetName": "Robertson-Petersen",
+    "businessCategory": "Energy",
+    "lat": 49.88381,
+    "lng": -119.49224,
+    "riskFactors": {
+      "drought": 0.11,
+      "flooding": 0.08,
+      "seaLevelRise": 0.15,
+      "earthquake": 0.16,
+      "extremeHeat": 0.09,
+      "hurricane": 0.13
+    },
+    "riskRating": 0.72,
+    "year": "2060"
+  },
+  {
+    "assetName": "Robertson-Petersen",
+    "businessCategory": "Energy",
+    "lat": 49.88381,
+    "lng": -119.49224,
+    "riskFactors": {
+      "earthquake": 0.29,
+      "wildfire": 0.32
+    },
+    "riskRating": 0.61,
+    "year": "2070"
+  },
+  {
+    "assetName": "Skinner-Rojas",
+    "businessCategory": "Energy",
+    "lat": 45.43166,
+    "lng": -73.88938,
+    "riskFactors": {
+      "drought": 0.11,
+      "extremeCold": 0.03,
+      "extremeHeat": 0.13,
+      "seaLevelRise": 0.11,
+      "earthquake": 0.08,
+      "hurricane": 0.03,
+      "flooding": 0.15,
+      "volcano": 0.06,
+      "wildfire": 0.04,
+      "tornado": 0.15
+    },
+    "riskRating": 0.89,
+    "year": "2030"
+  },
+  {
+    "assetName": "Skinner-Rojas",
+    "businessCategory": "Energy",
+    "lat": 45.43166,
+    "lng": -73.88938,
+    "riskFactors": {
+      "flooding": 0.35
+    },
+    "riskRating": 0.35,
+    "year": "2040"
+  },
+  {
+    "assetName": "Skinner-Rojas",
+    "businessCategory": "Energy",
+    "lat": 45.43166,
+    "lng": -73.88938,
+    "riskFactors": {
+      "drought": 0.21,
+      "tornado": 0.17,
+      "earthquake": 0.44
+    },
+    "riskRating": 0.82,
+    "year": "2060"
+  },
+  {
+    "assetName": "Skinner-Rojas",
+    "businessCategory": "Energy",
+    "lat": 45.43166,
+    "lng": -73.88938,
+    "riskFactors": {
+      "hurricane": 0.64
+    },
+    "riskRating": 0.64,
+    "year": "2070"
+  },
+  {
+    "assetName": "Skinner-Rojas",
+    "businessCategory": "Energy",
+    "lat": 45.43166,
+    "lng": -73.88938,
+    "riskFactors": {
+      "hurricane": 0.19,
+      "wildfire": 0.11,
+      "extremeHeat": 0.05,
+      "drought": 0.21,
+      "earthquake": 0.19,
+      "flooding": 0.15,
+      "volcano": 0
+    },
+    "riskRating": 0.9,
+    "year": "2050"
+  },
+  {
+    "assetName": "Mcpherson, Simmons and Simpson",
+    "businessCategory": "Energy",
+    "lat": 45.43254,
+    "lng": -73.81311,
+    "riskFactors": {
+      "tornado": 0.06
+    },
+    "riskRating": 0.06,
+    "year": "2030"
+  },
+  {
+    "assetName": "Mcpherson, Simmons and Simpson",
+    "businessCategory": "Energy",
+    "lat": 45.43254,
+    "lng": -73.81311,
+    "riskFactors": {
+      "drought": 0.08,
+      "extremeHeat": 0.12,
+      "extremeCold": 0.14,
+      "volcano": 0.09,
+      "earthquake": 0.01
+    },
+    "riskRating": 0.44,
+    "year": "2040"
+  },
+  {
+    "assetName": "Mcpherson, Simmons and Simpson",
+    "businessCategory": "Energy",
+    "lat": 45.43254,
+    "lng": -73.81311,
+    "riskFactors": {
+      "tornado": 0.01,
+      "extremeCold": 0,
+      "earthquake": 0,
+      "seaLevelRise": 0,
+      "volcano": 0,
+      "extremeHeat": 0,
+      "wildfire": 0,
+      "drought": 0,
+      "flooding": 0
+    },
+    "riskRating": 0.01,
+    "year": "2050"
+  },
+  {
+    "assetName": "Mcpherson, Simmons and Simpson",
+    "businessCategory": "Energy",
+    "lat": 45.43254,
+    "lng": -73.81311,
+    "riskFactors": {
+      "extremeCold": 0.12,
+      "seaLevelRise": 0.33,
+      "tornado": 0.16,
+      "volcano": 0.09,
+      "earthquake": 0.05,
+      "extremeHeat": 0.07
+    },
+    "riskRating": 0.82,
+    "year": "2060"
+  },
+  {
+    "assetName": "Mcpherson, Simmons and Simpson",
+    "businessCategory": "Energy",
+    "lat": 45.43254,
+    "lng": -73.81311,
+    "riskFactors": {
+      "hurricane": 0.15,
+      "seaLevelRise": 0.1,
+      "tornado": 0.1,
+      "flooding": 0,
+      "extremeCold": 0.14,
+      "drought": 0.05
+    },
+    "riskRating": 0.54,
+    "year": "2070"
+  },
+  {
+    "assetName": "Williams Group",
+    "businessCategory": "Healthcare",
+    "lat": 46.12734,
+    "lng": -60.18209,
+    "riskFactors": {
+      "tornado": 0.06999999999999999,
+      "flooding": 0.12,
+      "seaLevelRise": 0.16,
+      "earthquake": 0.15,
+      "wildfire": 0.08,
+      "extremeCold": 0.01,
+      "drought": 0.17,
+      "hurricane": 0.04,
+      "volcano": 0
+    },
+    "riskRating": 0.8,
+    "year": "2030"
+  },
+  {
+    "assetName": "Williams Group",
+    "businessCategory": "Healthcare",
+    "lat": 46.12734,
+    "lng": -60.18209,
+    "riskFactors": {
+      "flooding": 0.03,
+      "hurricane": 0.01,
+      "wildfire": 0,
+      "seaLevelRise": 0.03,
+      "extremeCold": 0.03,
+      "earthquake": 0.02,
+      "tornado": 0,
+      "extremeHeat": 0.02,
+      "volcano": 0.02,
+      "drought": 0.03
+    },
+    "riskRating": 0.19,
+    "year": "2040"
+  },
+  {
+    "assetName": "Williams Group",
+    "businessCategory": "Healthcare",
+    "lat": 46.12734,
+    "lng": -60.18209,
+    "riskFactors": {
+      "hurricane": 0.01,
+      "tornado": 0.36
+    },
+    "riskRating": 0.37,
+    "year": "2050"
+  },
+  {
+    "assetName": "Williams Group",
+    "businessCategory": "Healthcare",
+    "lat": 46.12734,
+    "lng": -60.18209,
+    "riskFactors": {
+      "wildfire": 0.09,
+      "flooding": 0.13,
+      "volcano": 0.03,
+      "extremeHeat": 0.11,
+      "earthquake": 0.02,
+      "hurricane": 0.02,
+      "tornado": 0.08,
+      "extremeCold": 0.07,
+      "seaLevelRise": 0.08,
+      "drought": 0.1
+    },
+    "riskRating": 0.73,
+    "year": "2060"
+  },
+  {
+    "assetName": "Williams Group",
+    "businessCategory": "Healthcare",
+    "lat": 46.12734,
+    "lng": -60.18209,
+    "riskFactors": {
+      "tornado": 0.44,
+      "drought": 0.05,
+      "extremeHeat": 0.32
+    },
+    "riskRating": 0.81,
+    "year": "2070"
+  },
+  {
+    "assetName": "Cook-Burns",
+    "businessCategory": "Retail",
+    "lat": 45.44031,
+    "lng": -73.79601,
+    "riskFactors": {
+      "extremeHeat": 0.13,
+      "wildfire": 0.29,
+      "earthquake": 0.3,
+      "hurricane": 0.15
+    },
+    "riskRating": 0.87,
+    "year": "2030"
+  },
+  {
+    "assetName": "Cook-Burns",
+    "businessCategory": "Retail",
+    "lat": 45.44031,
+    "lng": -73.79601,
+    "riskFactors": {
+      "hurricane": 0.16,
+      "earthquake": 0.16,
+      "extremeCold": 0.17,
+      "wildfire": 0.11,
+      "drought": 0.11,
+      "tornado": 0.02,
+      "volcano": 0.17
+    },
+    "riskRating": 0.9,
+    "year": "2040"
+  },
+  {
+    "assetName": "Cook-Burns",
+    "businessCategory": "Retail",
+    "lat": 45.44031,
+    "lng": -73.79601,
+    "riskFactors": {
+      "drought": 0.18,
+      "volcano": 0.32,
+      "seaLevelRise": 0.17
+    },
+    "riskRating": 0.67,
+    "year": "2050"
+  },
+  {
+    "assetName": "Cook-Burns",
+    "businessCategory": "Retail",
+    "lat": 45.44031,
+    "lng": -73.79601,
+    "riskFactors": {
+      "hurricane": 0.89
+    },
+    "riskRating": 0.89,
+    "year": "2060"
+  },
+  {
+    "assetName": "Cook-Burns",
+    "businessCategory": "Retail",
+    "lat": 45.44031,
+    "lng": -73.79601,
+    "riskFactors": {
+      "extremeHeat": 0.12,
+      "flooding": 0.11,
+      "volcano": 0.07,
+      "extremeCold": 0,
+      "hurricane": 0.09,
+      "seaLevelRise": 0.04,
+      "earthquake": 0.05,
+      "wildfire": 0.01,
+      "tornado": 0.12
+    },
+    "riskRating": 0.61,
+    "year": "2070"
+  },
+  {
+    "assetName": "Guzman Ltd",
+    "businessCategory": "Technology",
+    "lat": 45.44557,
+    "lng": -73.86149,
+    "riskFactors": {
+      "drought": 0,
+      "extremeCold": 0,
+      "seaLevelRise": 0,
+      "wildfire": 0,
+      "hurricane": 0
+    },
+    "riskRating": 0,
+    "year": "2030"
+  },
+  {
+    "assetName": "Guzman Ltd",
+    "businessCategory": "Technology",
+    "lat": 45.44557,
+    "lng": -73.86149,
+    "riskFactors": {
+      "extremeHeat": 0,
+      "volcano": 0.07,
+      "seaLevelRise": 0.1,
+      "flooding": 0.16,
+      "extremeCold": 0.09,
+      "drought": 0.16,
+      "wildfire": 0.13,
+      "tornado": 0.1,
+      "earthquake": 0.13,
+      "hurricane": 0.04
+    },
+    "riskRating": 0.98,
+    "year": "2040"
+  },
+  {
+    "assetName": "Guzman Ltd",
+    "businessCategory": "Technology",
+    "lat": 45.44557,
+    "lng": -73.86149,
+    "riskFactors": {
+      "earthquake": 0.92
+    },
+    "riskRating": 0.92,
+    "year": "2050"
+  },
+  {
+    "assetName": "Guzman Ltd",
+    "businessCategory": "Technology",
+    "lat": 45.44557,
+    "lng": -73.86149,
+    "riskFactors": {
+      "hurricane": 0.02,
+      "earthquake": 0.09,
+      "extremeHeat": 0.12,
+      "drought": 0.06,
+      "wildfire": 0.02,
+      "volcano": 0.03
+    },
+    "riskRating": 0.34,
+    "year": "2070"
+  },
+  {
+    "assetName": "Guzman Ltd",
+    "businessCategory": "Technology",
+    "lat": 45.44557,
+    "lng": -73.86149,
+    "riskFactors": {
+      "wildfire": 0.03
+    },
+    "riskRating": 0.03,
+    "year": "2060"
+  },
+  {
+    "assetName": "Vega-Huffman",
+    "businessCategory": "Retail",
+    "lat": 43.87491,
+    "lng": -79.26656,
+    "riskFactors": {
+      "tornado": 0.08,
+      "extremeCold": 0.25,
+      "flooding": 0.03,
+      "extremeHeat": 0.3,
+      "hurricane": 0.17,
+      "drought": 0.02
+    },
+    "riskRating": 0.85,
+    "year": "2030"
+  },
+  {
+    "assetName": "Vega-Huffman",
+    "businessCategory": "Retail",
+    "lat": 43.87491,
+    "lng": -79.26656,
+    "riskFactors": {
+      "flooding": 0.13999999999999999,
+      "earthquake": 0.13,
+      "extremeCold": 0.01,
+      "drought": 0.03,
+      "wildfire": 0.06,
+      "tornado": 0.09,
+      "seaLevelRise": 0.07,
+      "extremeHeat": 0.1,
+      "hurricane": 0.01,
+      "volcano": 0.06
+    },
+    "riskRating": 0.7,
+    "year": "2040"
+  },
+  {
+    "assetName": "Vega-Huffman",
+    "businessCategory": "Retail",
+    "lat": 43.87491,
+    "lng": -79.26656,
+    "riskFactors": {
+      "hurricane": 0,
+      "wildfire": 0.01,
+      "extremeHeat": 0,
+      "flooding": 0,
+      "volcano": 0.01,
+      "seaLevelRise": 0,
+      "drought": 0,
+      "extremeCold": 0.01,
+      "earthquake": 0.01
+    },
+    "riskRating": 0.04,
+    "year": "2060"
+  },
+  {
+    "assetName": "Vega-Huffman",
+    "businessCategory": "Retail",
+    "lat": 43.87491,
+    "lng": -79.26656,
+    "riskFactors": {
+      "drought": 0,
+      "hurricane": 0.01,
+      "flooding": 0,
+      "extremeCold": 0,
+      "earthquake": 0.01
+    },
+    "riskRating": 0.02,
+    "year": "2070"
+  },
+  {
+    "assetName": "Vega-Huffman",
+    "businessCategory": "Retail",
+    "lat": 43.87491,
+    "lng": -79.26656,
+    "riskFactors": {
+      "drought": 0.06999999999999999,
+      "tornado": 0.03,
+      "wildfire": 0.09,
+      "volcano": 0.08,
+      "earthquake": 0.09,
+      "seaLevelRise": 0.09,
+      "extremeHeat": 0.16
+    },
+    "riskRating": 0.61,
+    "year": "2050"
+  },
+  {
+    "assetName": "Davis, Allen and Rivera",
+    "businessCategory": "Energy",
+    "lat": 49.88673,
+    "lng": -119.49081,
+    "riskFactors": {
+      "tornado": 0.12,
+      "volcano": 0.12,
+      "hurricane": 0.02,
+      "extremeCold": 0.1,
+      "flooding": 0.01,
+      "seaLevelRise": 0.11
+    },
+    "riskRating": 0.48,
+    "year": "2040"
+  },
+  {
+    "assetName": "Davis, Allen and Rivera",
+    "businessCategory": "Energy",
+    "lat": 49.88673,
+    "lng": -119.49081,
+    "riskFactors": {
+      "extremeHeat": 0.46
+    },
+    "riskRating": 0.46,
+    "year": "2050"
+  },
+  {
+    "assetName": "Davis, Allen and Rivera",
+    "businessCategory": "Energy",
+    "lat": 49.88673,
+    "lng": -119.49081,
+    "riskFactors": {
+      "earthquake": 0.01,
+      "extremeHeat": 0.01,
+      "wildfire": 0.01,
+      "drought": 0.01,
+      "extremeCold": 0.01
+    },
+    "riskRating": 0.05,
+    "year": "2060"
+  },
+  {
+    "assetName": "Davis, Allen and Rivera",
+    "businessCategory": "Energy",
+    "lat": 49.88673,
+    "lng": -119.49081,
+    "riskFactors": {
+      "volcano": 0,
+      "extremeCold": 0.01,
+      "wildfire": 0,
+      "drought": 0.02,
+      "earthquake": 0.02,
+      "seaLevelRise": 0.01,
+      "hurricane": 0.03,
+      "extremeHeat": 0.03,
+      "flooding": 0.02,
+      "tornado": 0.02
+    },
+    "riskRating": 0.16,
+    "year": "2070"
+  },
+  {
+    "assetName": "Davis, Allen and Rivera",
+    "businessCategory": "Energy",
+    "lat": 49.88673,
+    "lng": -119.49081,
+    "riskFactors": {
+      "earthquake": 0.5
+    },
+    "riskRating": 0.5,
+    "year": "2030"
+  },
+  {
+    "assetName": "Fox, Daniel and Coleman",
+    "businessCategory": "Energy",
+    "lat": 46.2362,
+    "lng": -63.13612,
+    "riskFactors": {
+      "extremeCold": 0.43,
+      "drought": 0.03,
+      "hurricane": 0.01
+    },
+    "riskRating": 0.47,
+    "year": "2030"
+  },
+  {
+    "assetName": "Fox, Daniel and Coleman",
+    "businessCategory": "Energy",
+    "lat": 46.2362,
+    "lng": -63.13612,
+    "riskFactors": {
+      "hurricane": 0.019999999999999997,
+      "drought": 0.01,
+      "flooding": 0.06,
+      "seaLevelRise": 0.07
+    },
+    "riskRating": 0.16,
+    "year": "2040"
+  },
+  {
+    "assetName": "Fox, Daniel and Coleman",
+    "businessCategory": "Energy",
+    "lat": 46.2362,
+    "lng": -63.13612,
+    "riskFactors": {
+      "volcano": 0.31,
+      "drought": 0.34
+    },
+    "riskRating": 0.65,
+    "year": "2050"
+  },
+  {
+    "assetName": "Fox, Daniel and Coleman",
+    "businessCategory": "Energy",
+    "lat": 46.2362,
+    "lng": -63.13612,
+    "riskFactors": {
+      "extremeHeat": 0.09,
+      "tornado": 0.06,
+      "earthquake": 0.13,
+      "flooding": 0.13,
+      "volcano": 0.03,
+      "drought": 0.12,
+      "hurricane": 0.08,
+      "wildfire": 0.13
+    },
+    "riskRating": 0.77,
+    "year": "2060"
+  },
+  {
+    "assetName": "Fox, Daniel and Coleman",
+    "businessCategory": "Energy",
+    "lat": 46.2362,
+    "lng": -63.13612,
+    "riskFactors": {
+      "flooding": 0.02,
+      "drought": 0.02,
+      "seaLevelRise": 0.03,
+      "hurricane": 0.02,
+      "volcano": 0.01,
+      "extremeHeat": 0.06,
+      "wildfire": 0.06,
+      "extremeCold": 0.02,
+      "earthquake": 0.06
+    },
+    "riskRating": 0.3,
+    "year": "2070"
+  },
+  {
+    "assetName": "Good-Lewis",
+    "businessCategory": "Healthcare",
+    "lat": 45.44483,
+    "lng": -73.76991,
+    "riskFactors": {
+      "wildfire": 0.049999999999999996,
+      "volcano": 0.06,
+      "earthquake": 0.1,
+      "drought": 0.05,
+      "tornado": 0.09,
+      "flooding": 0.09,
+      "extremeCold": 0.09,
+      "hurricane": 0.03,
+      "extremeHeat": 0.09
+    },
+    "riskRating": 0.65,
+    "year": "2030"
+  },
+  {
+    "assetName": "Good-Lewis",
+    "businessCategory": "Healthcare",
+    "lat": 45.44483,
+    "lng": -73.76991,
+    "riskFactors": {
+      "extremeCold": 0,
+      "wildfire": 0,
+      "drought": 0
+    },
+    "riskRating": 0,
+    "year": "2050"
+  },
+  {
+    "assetName": "Good-Lewis",
+    "businessCategory": "Healthcare",
+    "lat": 45.44483,
+    "lng": -73.76991,
+    "riskFactors": {
+      "drought": 0.05,
+      "extremeCold": 0.06,
+      "hurricane": 0.01,
+      "seaLevelRise": 0.04,
+      "extremeHeat": 0.07,
+      "tornado": 0,
+      "wildfire": 0.04
+    },
+    "riskRating": 0.27,
+    "year": "2060"
+  },
+  {
+    "assetName": "Good-Lewis",
+    "businessCategory": "Healthcare",
+    "lat": 45.44483,
+    "lng": -73.76991,
+    "riskFactors": {
+      "extremeHeat": 0.06,
+      "tornado": 0.04,
+      "hurricane": 0.02,
+      "flooding": 0.17,
+      "drought": 0.12,
+      "earthquake": 0.18,
+      "seaLevelRise": 0.05,
+      "wildfire": 0.1,
+      "extremeCold": 0.02,
+      "volcano": 0.14
+    },
+    "riskRating": 0.9,
+    "year": "2070"
+  },
+  {
+    "assetName": "Good-Lewis",
+    "businessCategory": "Healthcare",
+    "lat": 45.44483,
+    "lng": -73.76991,
+    "riskFactors": {
+      "extremeHeat": 0.08,
+      "volcano": 0.18,
+      "flooding": 0.14,
+      "extremeCold": 0.05,
+      "earthquake": 0.14,
+      "drought": 0.16,
+      "seaLevelRise": 0.11
+    },
+    "riskRating": 0.86,
+    "year": "2040"
+  },
+  {
+    "assetName": "Waller Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 46.13061,
+    "lng": -60.19499,
+    "riskFactors": {
+      "earthquake": 0.2,
+      "tornado": 0.14,
+      "drought": 0.21,
+      "flooding": 0.06,
+      "extremeHeat": 0.19
+    },
+    "riskRating": 0.8,
+    "year": "2030"
+  },
+  {
+    "assetName": "Waller Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 46.13061,
+    "lng": -60.19499,
+    "riskFactors": {
+      "tornado": 0.18,
+      "extremeCold": 0.01
+    },
+    "riskRating": 0.19,
+    "year": "2040"
+  },
+  {
+    "assetName": "Waller Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 46.13061,
+    "lng": -60.19499,
+    "riskFactors": {
+      "flooding": 0.19,
+      "drought": 0.07,
+      "hurricane": 0.34,
+      "extremeHeat": 0.17
+    },
+    "riskRating": 0.77,
+    "year": "2050"
+  },
+  {
+    "assetName": "Waller Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 46.13061,
+    "lng": -60.19499,
+    "riskFactors": {
+      "tornado": 0.25
+    },
+    "riskRating": 0.25,
+    "year": "2060"
+  },
+  {
+    "assetName": "Waller Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 46.13061,
+    "lng": -60.19499,
+    "riskFactors": {
+      "seaLevelRise": 0.05,
+      "extremeCold": 0.06,
+      "tornado": 0.03,
+      "wildfire": 0.01,
+      "volcano": 0.06,
+      "drought": 0.05,
+      "flooding": 0.03,
+      "hurricane": 0.08,
+      "earthquake": 0.04,
+      "extremeHeat": 0.08
+    },
+    "riskRating": 0.49,
+    "year": "2070"
+  },
+  {
+    "assetName": "Smith-Woods",
+    "businessCategory": "Healthcare",
+    "lat": 46.13898,
+    "lng": -60.1701,
+    "riskFactors": {
+      "wildfire": 0.6
+    },
+    "riskRating": 0.6,
+    "year": "2030"
+  },
+  {
+    "assetName": "Smith-Woods",
+    "businessCategory": "Healthcare",
+    "lat": 46.13898,
+    "lng": -60.1701,
+    "riskFactors": {
+      "extremeCold": 0.07,
+      "earthquake": 0.07,
+      "flooding": 0.1
+    },
+    "riskRating": 0.24,
+    "year": "2050"
+  },
+  {
+    "assetName": "Smith-Woods",
+    "businessCategory": "Healthcare",
+    "lat": 46.13898,
+    "lng": -60.1701,
+    "riskFactors": {
+      "tornado": 0.08,
+      "drought": 0.02,
+      "seaLevelRise": 0,
+      "flooding": 0.06,
+      "hurricane": 0.05,
+      "volcano": 0.03
+    },
+    "riskRating": 0.24,
+    "year": "2060"
+  },
+  {
+    "assetName": "Smith-Woods",
+    "businessCategory": "Healthcare",
+    "lat": 46.13898,
+    "lng": -60.1701,
+    "riskFactors": {
+      "tornado": 0.16,
+      "extremeHeat": 0.21,
+      "extremeCold": 0.22,
+      "hurricane": 0.09,
+      "wildfire": 0.04
+    },
+    "riskRating": 0.72,
+    "year": "2070"
+  },
+  {
+    "assetName": "Smith-Woods",
+    "businessCategory": "Healthcare",
+    "lat": 46.13898,
+    "lng": -60.1701,
+    "riskFactors": {
+      "tornado": 0,
+      "drought": 0.01,
+      "hurricane": 0.01,
+      "extremeHeat": 0.01
+    },
+    "riskRating": 0.03,
+    "year": "2040"
+  },
+  {
+    "assetName": "Washington, Rogers and Morrison",
+    "businessCategory": "Finance",
+    "lat": 50.26581,
+    "lng": -119.27873,
+    "riskFactors": {
+      "volcano": 0.12000000000000001,
+      "earthquake": 0.07,
+      "extremeCold": 0.1,
+      "flooding": 0.12,
+      "wildfire": 0.16,
+      "drought": 0.2
+    },
+    "riskRating": 0.77,
+    "year": "2030"
+  },
+  {
+    "assetName": "Washington, Rogers and Morrison",
+    "businessCategory": "Finance",
+    "lat": 50.26581,
+    "lng": -119.27873,
+    "riskFactors": {
+      "seaLevelRise": 0.01,
+      "volcano": 0.04,
+      "wildfire": 0.03,
+      "tornado": 0,
+      "hurricane": 0.04,
+      "extremeHeat": 0.01,
+      "flooding": 0.05,
+      "extremeCold": 0.02
+    },
+    "riskRating": 0.2,
+    "year": "2040"
+  },
+  {
+    "assetName": "Washington, Rogers and Morrison",
+    "businessCategory": "Finance",
+    "lat": 50.26581,
+    "lng": -119.27873,
+    "riskFactors": {
+      "tornado": 0.07,
+      "extremeHeat": 0.06,
+      "wildfire": 0.03,
+      "drought": 0.05
+    },
+    "riskRating": 0.21,
+    "year": "2050"
+  },
+  {
+    "assetName": "Washington, Rogers and Morrison",
+    "businessCategory": "Finance",
+    "lat": 50.26581,
+    "lng": -119.27873,
+    "riskFactors": {
+      "drought": 0.3,
+      "seaLevelRise": 0.09,
+      "extremeHeat": 0.08,
+      "volcano": 0.02
+    },
+    "riskRating": 0.49,
+    "year": "2060"
+  },
+  {
+    "assetName": "Washington, Rogers and Morrison",
+    "businessCategory": "Finance",
+    "lat": 50.26581,
+    "lng": -119.27873,
+    "riskFactors": {
+      "wildfire": 0.01,
+      "extremeCold": 0.03,
+      "tornado": 0.03,
+      "flooding": 0.01,
+      "hurricane": 0
+    },
+    "riskRating": 0.08,
+    "year": "2070"
+  },
+  {
+    "assetName": "Park and Sons",
+    "businessCategory": "Energy",
+    "lat": 45.39902,
+    "lng": -73.59104,
+    "riskFactors": {
+      "earthquake": 0.04
+    },
+    "riskRating": 0.04,
+    "year": "2040"
+  },
+  {
+    "assetName": "Park and Sons",
+    "businessCategory": "Energy",
+    "lat": 45.39902,
+    "lng": -73.59104,
+    "riskFactors": {
+      "volcano": 0.39,
+      "earthquake": 0.15
+    },
+    "riskRating": 0.54,
+    "year": "2050"
+  },
+  {
+    "assetName": "Park and Sons",
+    "businessCategory": "Energy",
+    "lat": 45.39902,
+    "lng": -73.59104,
+    "riskFactors": {
+      "extremeHeat": 0.02,
+      "drought": 0.02,
+      "flooding": 0.01,
+      "seaLevelRise": 0.03,
+      "wildfire": 0.03,
+      "hurricane": 0.02,
+      "earthquake": 0,
+      "extremeCold": 0.02,
+      "volcano": 0.02,
+      "tornado": 0.03
+    },
+    "riskRating": 0.2,
+    "year": "2060"
+  },
+  {
+    "assetName": "Park and Sons",
+    "businessCategory": "Energy",
+    "lat": 45.39902,
+    "lng": -73.59104,
+    "riskFactors": {
+      "wildfire": 0.03,
+      "hurricane": 0.07,
+      "drought": 0.01,
+      "extremeHeat": 0.07,
+      "seaLevelRise": 0.08,
+      "flooding": 0.06,
+      "earthquake": 0.03,
+      "tornado": 0.07,
+      "volcano": 0.02,
+      "extremeCold": 0.06
+    },
+    "riskRating": 0.5,
+    "year": "2070"
+  },
+  {
+    "assetName": "Park and Sons",
+    "businessCategory": "Energy",
+    "lat": 45.39902,
+    "lng": -73.59104,
+    "riskFactors": {
+      "volcano": 0.21,
+      "earthquake": 0.02,
+      "flooding": 0.11
+    },
+    "riskRating": 0.34,
+    "year": "2030"
+  },
+  {
+    "assetName": "Hooper, Evans and Merritt",
+    "businessCategory": "Energy",
+    "lat": 49.8811,
+    "lng": -119.47711,
+    "riskFactors": {
+      "extremeCold": 0.11,
+      "wildfire": 0.09,
+      "extremeHeat": 0.18,
+      "seaLevelRise": 0.14,
+      "volcano": 0.01,
+      "drought": 0.17
+    },
+    "riskRating": 0.7,
+    "year": "2030"
+  },
+  {
+    "assetName": "Hooper, Evans and Merritt",
+    "businessCategory": "Energy",
+    "lat": 49.8811,
+    "lng": -119.47711,
+    "riskFactors": {
+      "earthquake": 0,
+      "wildfire": 0,
+      "extremeHeat": 0,
+      "drought": 0.01,
+      "tornado": 0,
+      "hurricane": 0.01,
+      "extremeCold": 0.01,
+      "volcano": 0,
+      "seaLevelRise": 0.01
+    },
+    "riskRating": 0.04,
+    "year": "2050"
+  },
+  {
+    "assetName": "Hooper, Evans and Merritt",
+    "businessCategory": "Energy",
+    "lat": 49.8811,
+    "lng": -119.47711,
+    "riskFactors": {
+      "volcano": 0.15000000000000002,
+      "drought": 0.15,
+      "seaLevelRise": 0.13,
+      "extremeHeat": 0.09,
+      "tornado": 0.16,
+      "flooding": 0.12
+    },
+    "riskRating": 0.8,
+    "year": "2060"
+  },
+  {
+    "assetName": "Hooper, Evans and Merritt",
+    "businessCategory": "Energy",
+    "lat": 49.8811,
+    "lng": -119.47711,
+    "riskFactors": {
+      "hurricane": 0.14,
+      "extremeCold": 0.06,
+      "flooding": 0.06,
+      "earthquake": 0.09,
+      "tornado": 0.02,
+      "seaLevelRise": 0.09,
+      "extremeHeat": 0.03,
+      "drought": 0.08,
+      "wildfire": 0.03,
+      "volcano": 0
+    },
+    "riskRating": 0.6,
+    "year": "2070"
+  },
+  {
+    "assetName": "Hooper, Evans and Merritt",
+    "businessCategory": "Energy",
+    "lat": 49.8811,
+    "lng": -119.47711,
+    "riskFactors": {
+      "wildfire": 0,
+      "extremeCold": 0,
+      "flooding": 0.01,
+      "seaLevelRise": 0,
+      "earthquake": 0.01,
+      "drought": 0,
+      "extremeHeat": 0,
+      "volcano": 0,
+      "tornado": 0.01
+    },
+    "riskRating": 0.03,
+    "year": "2040"
+  },
+  {
+    "assetName": "Perez-Robertson",
+    "businessCategory": "Healthcare",
+    "lat": 45.4281,
+    "lng": -73.89684,
+    "riskFactors": {
+      "drought": 0.1,
+      "hurricane": 0.1,
+      "tornado": 0.08,
+      "seaLevelRise": 0.13,
+      "extremeHeat": 0.13,
+      "extremeCold": 0.08,
+      "flooding": 0.1,
+      "volcano": 0.04,
+      "wildfire": 0.13
+    },
+    "riskRating": 0.89,
+    "year": "2030"
+  },
+  {
+    "assetName": "Perez-Robertson",
+    "businessCategory": "Healthcare",
+    "lat": 45.4281,
+    "lng": -73.89684,
+    "riskFactors": {
+      "hurricane": 0.01,
+      "extremeHeat": 0.24,
+      "drought": 0.23,
+      "extremeCold": 0.05,
+      "flooding": 0.29
+    },
+    "riskRating": 0.82,
+    "year": "2040"
+  },
+  {
+    "assetName": "Perez-Robertson",
+    "businessCategory": "Healthcare",
+    "lat": 45.4281,
+    "lng": -73.89684,
+    "riskFactors": {
+      "flooding": 0.3,
+      "extremeCold": 0.1,
+      "seaLevelRise": 0.15,
+      "extremeHeat": 0.28,
+      "drought": 0.05,
+      "wildfire": 0.06
+    },
+    "riskRating": 0.94,
+    "year": "2050"
+  },
+  {
+    "assetName": "Perez-Robertson",
+    "businessCategory": "Healthcare",
+    "lat": 45.4281,
+    "lng": -73.89684,
+    "riskFactors": {
+      "extremeCold": 0.04,
+      "volcano": 0.28,
+      "seaLevelRise": 0.32
+    },
+    "riskRating": 0.64,
+    "year": "2070"
+  },
+  {
+    "assetName": "Perez-Robertson",
+    "businessCategory": "Healthcare",
+    "lat": 45.4281,
+    "lng": -73.89684,
+    "riskFactors": {
+      "volcano": 0.05,
+      "seaLevelRise": 0.02,
+      "flooding": 0.12,
+      "drought": 0.06,
+      "extremeCold": 0.05,
+      "extremeHeat": 0.08,
+      "wildfire": 0.02,
+      "earthquake": 0.03
+    },
+    "riskRating": 0.43,
+    "year": "2060"
+  },
+  {
+    "assetName": "Reid-Sherman",
+    "businessCategory": "Manufacturing",
+    "lat": 49.88005,
+    "lng": -119.48208,
+    "riskFactors": {
+      "earthquake": 0.21,
+      "flooding": 0.13,
+      "volcano": 0.04,
+      "tornado": 0.04,
+      "extremeCold": 0.07,
+      "extremeHeat": 0.16
+    },
+    "riskRating": 0.65,
+    "year": "2030"
+  },
+  {
+    "assetName": "Reid-Sherman",
+    "businessCategory": "Manufacturing",
+    "lat": 49.88005,
+    "lng": -119.48208,
+    "riskFactors": {
+      "volcano": 0,
+      "drought": 0.1,
+      "flooding": 0.08,
+      "seaLevelRise": 0.11,
+      "earthquake": 0.08,
+      "extremeHeat": 0.07,
+      "extremeCold": 0.08,
+      "wildfire": 0.05,
+      "hurricane": 0.03,
+      "tornado": 0.1
+    },
+    "riskRating": 0.7,
+    "year": "2050"
+  },
+  {
+    "assetName": "Reid-Sherman",
+    "businessCategory": "Manufacturing",
+    "lat": 49.88005,
+    "lng": -119.48208,
+    "riskFactors": {
+      "earthquake": 0.019999999999999997,
+      "drought": 0.04,
+      "tornado": 0.01,
+      "seaLevelRise": 0.03,
+      "flooding": 0.18,
+      "wildfire": 0.16,
+      "volcano": 0.13,
+      "extremeCold": 0.21,
+      "extremeHeat": 0.17
+    },
+    "riskRating": 0.95,
+    "year": "2060"
+  },
+  {
+    "assetName": "Reid-Sherman",
+    "businessCategory": "Manufacturing",
+    "lat": 49.88005,
+    "lng": -119.48208,
+    "riskFactors": {
+      "hurricane": 0.32,
+      "flooding": 0.55,
+      "earthquake": 0.05
+    },
+    "riskRating": 0.92,
+    "year": "2070"
+  },
+  {
+    "assetName": "Reid-Sherman",
+    "businessCategory": "Manufacturing",
+    "lat": 49.88005,
+    "lng": -119.48208,
+    "riskFactors": {
+      "seaLevelRise": 0.51,
+      "volcano": 0.44
+    },
+    "riskRating": 0.95,
+    "year": "2040"
+  },
+  {
+    "assetName": "Wiley Ltd",
+    "businessCategory": "Healthcare",
+    "lat": 43.87098,
+    "lng": -79.27014,
+    "riskFactors": {
+      "wildfire": 0.07,
+      "seaLevelRise": 0.09,
+      "earthquake": 0.24
+    },
+    "riskRating": 0.4,
+    "year": "2030"
+  },
+  {
+    "assetName": "Wiley Ltd",
+    "businessCategory": "Healthcare",
+    "lat": 43.87098,
+    "lng": -79.27014,
+    "riskFactors": {
+      "hurricane": 0.07,
+      "tornado": 0.07,
+      "earthquake": 0.05,
+      "extremeCold": 0.06,
+      "flooding": 0.03,
+      "seaLevelRise": 0.1,
+      "extremeHeat": 0.02,
+      "volcano": 0.04,
+      "drought": 0.07
+    },
+    "riskRating": 0.51,
+    "year": "2040"
+  },
+  {
+    "assetName": "Wiley Ltd",
+    "businessCategory": "Healthcare",
+    "lat": 43.87098,
+    "lng": -79.27014,
+    "riskFactors": {
+      "extremeCold": 0,
+      "extremeHeat": 0,
+      "flooding": 0
+    },
+    "riskRating": 0,
+    "year": "2050"
+  },
+  {
+    "assetName": "Wiley Ltd",
+    "businessCategory": "Healthcare",
+    "lat": 43.87098,
+    "lng": -79.27014,
+    "riskFactors": {
+      "flooding": 0.03,
+      "extremeHeat": 0.01,
+      "extremeCold": 0.01,
+      "seaLevelRise": 0.02,
+      "earthquake": 0.01,
+      "volcano": 0,
+      "wildfire": 0.02,
+      "hurricane": 0.01,
+      "tornado": 0.03
+    },
+    "riskRating": 0.14,
+    "year": "2060"
+  },
+  {
+    "assetName": "Wiley Ltd",
+    "businessCategory": "Healthcare",
+    "lat": 43.87098,
+    "lng": -79.27014,
+    "riskFactors": {
+      "extremeCold": 0.04,
+      "hurricane": 0.01,
+      "tornado": 0.06,
+      "wildfire": 0.09,
+      "volcano": 0.08,
+      "flooding": 0.12,
+      "earthquake": 0.05,
+      "seaLevelRise": 0.11,
+      "extremeHeat": 0.1
+    },
+    "riskRating": 0.66,
+    "year": "2070"
+  },
+  {
+    "assetName": "Jimenez-Gallegos",
+    "businessCategory": "Finance",
+    "lat": 45.40729,
+    "lng": -73.61312,
+    "riskFactors": {
+      "tornado": 0.21,
+      "wildfire": 0.06
+    },
+    "riskRating": 0.27,
+    "year": "2040"
+  },
+  {
+    "assetName": "Jimenez-Gallegos",
+    "businessCategory": "Finance",
+    "lat": 45.40729,
+    "lng": -73.61312,
+    "riskFactors": {
+      "tornado": 0.04
+    },
+    "riskRating": 0.04,
+    "year": "2050"
+  },
+  {
+    "assetName": "Jimenez-Gallegos",
+    "businessCategory": "Finance",
+    "lat": 45.40729,
+    "lng": -73.61312,
+    "riskFactors": {
+      "tornado": 0.21,
+      "extremeHeat": 0.18,
+      "seaLevelRise": 0.01,
+      "drought": 0.23
+    },
+    "riskRating": 0.63,
+    "year": "2060"
+  },
+  {
+    "assetName": "Jimenez-Gallegos",
+    "businessCategory": "Finance",
+    "lat": 45.40729,
+    "lng": -73.61312,
+    "riskFactors": {
+      "seaLevelRise": 0.79
+    },
+    "riskRating": 0.79,
+    "year": "2070"
+  },
+  {
+    "assetName": "Jimenez-Gallegos",
+    "businessCategory": "Finance",
+    "lat": 45.40729,
+    "lng": -73.61312,
+    "riskFactors": {
+      "earthquake": 0.01,
+      "drought": 0.01,
+      "extremeCold": 0,
+      "flooding": 0,
+      "hurricane": 0.01,
+      "tornado": 0.01,
+      "seaLevelRise": 0.01
+    },
+    "riskRating": 0.05,
+    "year": "2030"
+  },
+  {
+    "assetName": "Horne and Sons",
+    "businessCategory": "Healthcare",
+    "lat": 53.51787,
+    "lng": -113.32593,
+    "riskFactors": {
+      "wildfire": 0.73
+    },
+    "riskRating": 0.73,
+    "year": "2030"
+  },
+  {
+    "assetName": "Horne and Sons",
+    "businessCategory": "Healthcare",
+    "lat": 53.51787,
+    "lng": -113.32593,
+    "riskFactors": {
+      "drought": 0.009999999999999998,
+      "earthquake": 0.07,
+      "tornado": 0.02,
+      "volcano": 0.03,
+      "extremeCold": 0.05,
+      "hurricane": 0.02,
+      "extremeHeat": 0.05,
+      "flooding": 0.06,
+      "wildfire": 0.02
+    },
+    "riskRating": 0.33,
+    "year": "2050"
+  },
+  {
+    "assetName": "Horne and Sons",
+    "businessCategory": "Healthcare",
+    "lat": 53.51787,
+    "lng": -113.32593,
+    "riskFactors": {
+      "volcano": 0.060000000000000005,
+      "extremeCold": 0.05,
+      "hurricane": 0.02
+    },
+    "riskRating": 0.13,
+    "year": "2060"
+  },
+  {
+    "assetName": "Horne and Sons",
+    "businessCategory": "Healthcare",
+    "lat": 53.51787,
+    "lng": -113.32593,
+    "riskFactors": {
+      "seaLevelRise": 0.01,
+      "extremeCold": 0.04,
+      "earthquake": 0.22,
+      "tornado": 0.01,
+      "extremeHeat": 0.07,
+      "drought": 0.2,
+      "volcano": 0.07,
+      "flooding": 0.1,
+      "hurricane": 0.22
+    },
+    "riskRating": 0.94,
+    "year": "2070"
+  },
+  {
+    "assetName": "Horne and Sons",
+    "businessCategory": "Healthcare",
+    "lat": 53.51787,
+    "lng": -113.32593,
+    "riskFactors": {
+      "tornado": 0.01,
+      "flooding": 0.08,
+      "seaLevelRise": 0.06,
+      "hurricane": 0.01
+    },
+    "riskRating": 0.16,
+    "year": "2040"
+  },
+  {
+    "assetName": "Gross PLC",
+    "businessCategory": "Healthcare",
+    "lat": 42.84125,
+    "lng": -80.39015,
+    "riskFactors": {
+      "flooding": 0.13
+    },
+    "riskRating": 0.13,
+    "year": "2040"
+  },
+  {
+    "assetName": "Gross PLC",
+    "businessCategory": "Healthcare",
+    "lat": 42.84125,
+    "lng": -80.39015,
+    "riskFactors": {
+      "volcano": 0.13,
+      "flooding": 0.01,
+      "extremeCold": 0.12,
+      "seaLevelRise": 0.09,
+      "earthquake": 0.14,
+      "drought": 0.06,
+      "wildfire": 0.09,
+      "hurricane": 0.14,
+      "tornado": 0.04
+    },
+    "riskRating": 0.82,
+    "year": "2050"
+  },
+  {
+    "assetName": "Gross PLC",
+    "businessCategory": "Healthcare",
+    "lat": 42.84125,
+    "lng": -80.39015,
+    "riskFactors": {
+      "extremeHeat": 0.35,
+      "drought": 0.43
+    },
+    "riskRating": 0.78,
+    "year": "2060"
+  },
+  {
+    "assetName": "Gross PLC",
+    "businessCategory": "Healthcare",
+    "lat": 42.84125,
+    "lng": -80.39015,
+    "riskFactors": {
+      "seaLevelRise": 0.09,
+      "extremeCold": 0.04,
+      "tornado": 0.05,
+      "extremeHeat": 0,
+      "hurricane": 0.08,
+      "earthquake": 0.08,
+      "wildfire": 0.03
+    },
+    "riskRating": 0.37,
+    "year": "2070"
+  },
+  {
+    "assetName": "Gross PLC",
+    "businessCategory": "Healthcare",
+    "lat": 42.84125,
+    "lng": -80.39015,
+    "riskFactors": {
+      "extremeCold": 0.09,
+      "drought": 0.06,
+      "extremeHeat": 0.01,
+      "earthquake": 0.05,
+      "flooding": 0.02,
+      "wildfire": 0.01
+    },
+    "riskRating": 0.24,
+    "year": "2030"
+  },
+  {
+    "assetName": "Foster-Flores",
+    "businessCategory": "Healthcare",
+    "lat": 45.39921,
+    "lng": -73.57918,
+    "riskFactors": {
+      "seaLevelRise": 0.03,
+      "volcano": 0.02,
+      "drought": 0.03,
+      "flooding": 0.04,
+      "extremeCold": 0.08,
+      "tornado": 0.1,
+      "earthquake": 0.1
+    },
+    "riskRating": 0.4,
+    "year": "2030"
+  },
+  {
+    "assetName": "Foster-Flores",
+    "businessCategory": "Healthcare",
+    "lat": 45.39921,
+    "lng": -73.57918,
+    "riskFactors": {
+      "seaLevelRise": 0.12,
+      "tornado": 0.07,
+      "hurricane": 0.05,
+      "extremeCold": 0.28,
+      "extremeHeat": 0.07
+    },
+    "riskRating": 0.59,
+    "year": "2040"
+  },
+  {
+    "assetName": "Foster-Flores",
+    "businessCategory": "Healthcare",
+    "lat": 45.39921,
+    "lng": -73.57918,
+    "riskFactors": {
+      "volcano": 0.12,
+      "tornado": 0.03,
+      "earthquake": 0.25
+    },
+    "riskRating": 0.4,
+    "year": "2050"
+  },
+  {
+    "assetName": "Foster-Flores",
+    "businessCategory": "Healthcare",
+    "lat": 45.39921,
+    "lng": -73.57918,
+    "riskFactors": {
+      "extremeHeat": 0.02,
+      "tornado": 0.03,
+      "extremeCold": 0.06,
+      "hurricane": 0.02,
+      "seaLevelRise": 0.02,
+      "earthquake": 0.01,
+      "volcano": 0.05,
+      "wildfire": 0.06,
+      "flooding": 0.06,
+      "drought": 0.01
+    },
+    "riskRating": 0.34,
+    "year": "2060"
+  },
+  {
+    "assetName": "Foster-Flores",
+    "businessCategory": "Healthcare",
+    "lat": 45.39921,
+    "lng": -73.57918,
+    "riskFactors": {
+      "wildfire": 0.11,
+      "hurricane": 0.03,
+      "volcano": 0.02,
+      "tornado": 0.07,
+      "drought": 0.07
+    },
+    "riskRating": 0.3,
+    "year": "2070"
+  },
+  {
+    "assetName": "Kelley, Barnes and Hutchinson",
+    "businessCategory": "Healthcare",
+    "lat": 45.40072,
+    "lng": -73.53225,
+    "riskFactors": {
+      "extremeCold": 0.39,
+      "hurricane": 0.52
+    },
+    "riskRating": 0.91,
+    "year": "2030"
+  },
+  {
+    "assetName": "Kelley, Barnes and Hutchinson",
+    "businessCategory": "Healthcare",
+    "lat": 45.40072,
+    "lng": -73.53225,
+    "riskFactors": {
+      "volcano": 0.03,
+      "drought": 0.05,
+      "wildfire": 0.05,
+      "earthquake": 0.08
+    },
+    "riskRating": 0.21,
+    "year": "2040"
+  },
+  {
+    "assetName": "Kelley, Barnes and Hutchinson",
+    "businessCategory": "Healthcare",
+    "lat": 45.40072,
+    "lng": -73.53225,
+    "riskFactors": {
+      "tornado": 0.9
+    },
+    "riskRating": 0.9,
+    "year": "2050"
+  },
+  {
+    "assetName": "Kelley, Barnes and Hutchinson",
+    "businessCategory": "Healthcare",
+    "lat": 45.40072,
+    "lng": -73.53225,
+    "riskFactors": {
+      "volcano": 0.07,
+      "hurricane": 0.06,
+      "flooding": 0.12,
+      "earthquake": 0.16,
+      "wildfire": 0.04,
+      "extremeHeat": 0.03
+    },
+    "riskRating": 0.48,
+    "year": "2060"
+  },
+  {
+    "assetName": "Kelley, Barnes and Hutchinson",
+    "businessCategory": "Healthcare",
+    "lat": 45.40072,
+    "lng": -73.53225,
+    "riskFactors": {
+      "flooding": 0.11,
+      "hurricane": 0.15,
+      "wildfire": 0.19,
+      "drought": 0.15,
+      "seaLevelRise": 0.15
+    },
+    "riskRating": 0.75,
+    "year": "2070"
+  },
+  {
+    "assetName": "Wagner, Curry and Pearson",
+    "businessCategory": "Manufacturing",
+    "lat": 50.2636,
+    "lng": -119.27011,
+    "riskFactors": {
+      "drought": 0.39,
+      "earthquake": 0.3,
+      "extremeHeat": 0.16
+    },
+    "riskRating": 0.85,
+    "year": "2040"
+  },
+  {
+    "assetName": "Wagner, Curry and Pearson",
+    "businessCategory": "Manufacturing",
+    "lat": 50.2636,
+    "lng": -119.27011,
+    "riskFactors": {
+      "wildfire": 0.65,
+      "flooding": 0.26
+    },
+    "riskRating": 0.91,
+    "year": "2050"
+  },
+  {
+    "assetName": "Wagner, Curry and Pearson",
+    "businessCategory": "Manufacturing",
+    "lat": 50.2636,
+    "lng": -119.27011,
+    "riskFactors": {
+      "seaLevelRise": -0.01,
+      "flooding": 0.02,
+      "extremeHeat": 0.01,
+      "extremeCold": 0.03,
+      "drought": 0.01,
+      "hurricane": 0.01,
+      "tornado": 0.01,
+      "wildfire": 0.02,
+      "volcano": 0.01
+    },
+    "riskRating": 0.11,
+    "year": "2060"
+  },
+  {
+    "assetName": "Wagner, Curry and Pearson",
+    "businessCategory": "Manufacturing",
+    "lat": 50.2636,
+    "lng": -119.27011,
+    "riskFactors": {
+      "wildfire": 0.12,
+      "extremeHeat": 0.29,
+      "tornado": 0.39
+    },
+    "riskRating": 0.8,
+    "year": "2070"
+  },
+  {
+    "assetName": "Wagner, Curry and Pearson",
+    "businessCategory": "Manufacturing",
+    "lat": 50.2636,
+    "lng": -119.27011,
+    "riskFactors": {
+      "earthquake": 0.05,
+      "wildfire": 0.04,
+      "extremeHeat": 0.04
+    },
+    "riskRating": 0.13,
+    "year": "2030"
+  },
+  {
+    "assetName": "Stewart PLC",
+    "businessCategory": "Finance",
+    "lat": 50.271,
+    "lng": -119.27969,
+    "riskFactors": {
+      "drought": 0.01,
+      "extremeCold": 0.05,
+      "wildfire": 0.09,
+      "hurricane": 0.05,
+      "seaLevelRise": 0.09,
+      "flooding": 0.08,
+      "volcano": 0.09,
+      "earthquake": 0.09,
+      "tornado": 0.13
+    },
+    "riskRating": 0.68,
+    "year": "2030"
+  },
+  {
+    "assetName": "Stewart PLC",
+    "businessCategory": "Finance",
+    "lat": 50.271,
+    "lng": -119.27969,
+    "riskFactors": {
+      "seaLevelRise": 0.12,
+      "volcano": 0.02,
+      "hurricane": 0.05,
+      "earthquake": 0.08,
+      "extremeHeat": 0.09,
+      "drought": 0.14,
+      "extremeCold": 0.02
+    },
+    "riskRating": 0.52,
+    "year": "2040"
+  },
+  {
+    "assetName": "Stewart PLC",
+    "businessCategory": "Finance",
+    "lat": 50.271,
+    "lng": -119.27969,
+    "riskFactors": {
+      "tornado": 0.2,
+      "extremeCold": 0.49
+    },
+    "riskRating": 0.69,
+    "year": "2060"
+  },
+  {
+    "assetName": "Stewart PLC",
+    "businessCategory": "Finance",
+    "lat": 50.271,
+    "lng": -119.27969,
+    "riskFactors": {
+      "extremeHeat": 0.02,
+      "seaLevelRise": 0.01,
+      "flooding": 0.02,
+      "wildfire": 0.01
+    },
+    "riskRating": 0.06,
+    "year": "2070"
+  },
+  {
+    "assetName": "Stewart PLC",
+    "businessCategory": "Finance",
+    "lat": 50.271,
+    "lng": -119.27969,
+    "riskFactors": {
+      "flooding": 0.01,
+      "seaLevelRise": 0,
+      "volcano": 0,
+      "hurricane": 0
+    },
+    "riskRating": 0.01,
+    "year": "2050"
+  },
+  {
+    "assetName": "Kemp-Anderson",
+    "businessCategory": "Healthcare",
+    "lat": 43.86302,
+    "lng": -79.26622,
+    "riskFactors": {
+      "wildfire": 0.07,
+      "flooding": 0.01,
+      "extremeHeat": 0.04,
+      "earthquake": 0.08,
+      "tornado": 0.09,
+      "hurricane": 0.25,
+      "extremeCold": 0.22,
+      "seaLevelRise": 0.21
+    },
+    "riskRating": 0.97,
+    "year": "2030"
+  },
+  {
+    "assetName": "Kemp-Anderson",
+    "businessCategory": "Healthcare",
+    "lat": 43.86302,
+    "lng": -79.26622,
+    "riskFactors": {
+      "volcano": 0.18,
+      "flooding": 0.04,
+      "seaLevelRise": 0.1,
+      "drought": 0.08,
+      "extremeCold": 0.03,
+      "tornado": 0.01,
+      "earthquake": 0.15,
+      "wildfire": 0.04,
+      "hurricane": 0.23
+    },
+    "riskRating": 0.86,
+    "year": "2040"
+  },
+  {
+    "assetName": "Kemp-Anderson",
+    "businessCategory": "Healthcare",
+    "lat": 43.86302,
+    "lng": -79.26622,
+    "riskFactors": {
+      "extremeHeat": 0.45,
+      "flooding": 0.16,
+      "extremeCold": 0.38
+    },
+    "riskRating": 0.99,
+    "year": "2060"
+  },
+  {
+    "assetName": "Kemp-Anderson",
+    "businessCategory": "Healthcare",
+    "lat": 43.86302,
+    "lng": -79.26622,
+    "riskFactors": {
+      "drought": 0.09,
+      "earthquake": 0.01,
+      "tornado": 0.01,
+      "seaLevelRise": 0.14,
+      "extremeCold": 0.03,
+      "extremeHeat": 0.12,
+      "flooding": 0.06,
+      "wildfire": 0.1,
+      "volcano": 0.17
+    },
+    "riskRating": 0.73,
+    "year": "2070"
+  },
+  {
+    "assetName": "Kemp-Anderson",
+    "businessCategory": "Healthcare",
+    "lat": 43.86302,
+    "lng": -79.26622,
+    "riskFactors": {
+      "seaLevelRise": 0,
+      "volcano": 0.1,
+      "flooding": 0.06,
+      "earthquake": 0.08,
+      "drought": 0.01,
+      "hurricane": 0.07,
+      "tornado": 0.03,
+      "extremeCold": 0.07
+    },
+    "riskRating": 0.42,
+    "year": "2050"
+  },
+  {
+    "assetName": "Harrison, Meza and Rios",
+    "businessCategory": "Healthcare",
+    "lat": 45.39997,
+    "lng": -73.53423,
+    "riskFactors": {
+      "flooding": 0.25,
+      "wildfire": 0.3,
+      "tornado": 0.05
+    },
+    "riskRating": 0.6,
+    "year": "2030"
+  },
+  {
+    "assetName": "Harrison, Meza and Rios",
+    "businessCategory": "Healthcare",
+    "lat": 45.39997,
+    "lng": -73.53423,
+    "riskFactors": {
+      "drought": 0.35
+    },
+    "riskRating": 0.35,
+    "year": "2040"
+  },
+  {
+    "assetName": "Harrison, Meza and Rios",
+    "businessCategory": "Healthcare",
+    "lat": 45.39997,
+    "lng": -73.53423,
+    "riskFactors": {
+      "wildfire": 0.08,
+      "tornado": 0.06,
+      "seaLevelRise": 0.06,
+      "drought": 0.07,
+      "volcano": 0.02,
+      "extremeHeat": 0.04,
+      "earthquake": 0.05,
+      "hurricane": 0.06
+    },
+    "riskRating": 0.44,
+    "year": "2050"
+  },
+  {
+    "assetName": "Harrison, Meza and Rios",
+    "businessCategory": "Healthcare",
+    "lat": 45.39997,
+    "lng": -73.53423,
+    "riskFactors": {
+      "extremeHeat": 0.08
+    },
+    "riskRating": 0.08,
+    "year": "2070"
+  },
+  {
+    "assetName": "Harrison, Meza and Rios",
+    "businessCategory": "Healthcare",
+    "lat": 45.39997,
+    "lng": -73.53423,
+    "riskFactors": {
+      "wildfire": 0.47
+    },
+    "riskRating": 0.47,
+    "year": "2060"
+  },
+  {
+    "assetName": "Pittman PLC",
+    "businessCategory": "Energy",
+    "lat": 45.45484,
+    "lng": -73.82669,
+    "riskFactors": {
+      "seaLevelRise": 0.05,
+      "flooding": 0.03,
+      "tornado": 0,
+      "earthquake": 0.03,
+      "hurricane": 0.07,
+      "drought": 0.05,
+      "extremeHeat": 0.02,
+      "extremeCold": 0.01,
+      "volcano": 0.06
+    },
+    "riskRating": 0.32,
+    "year": "2040"
+  },
+  {
+    "assetName": "Pittman PLC",
+    "businessCategory": "Energy",
+    "lat": 45.45484,
+    "lng": -73.82669,
+    "riskFactors": {
+      "extremeCold": 0.02,
+      "hurricane": 0.11,
+      "drought": 0.19,
+      "flooding": 0.2
+    },
+    "riskRating": 0.52,
+    "year": "2050"
+  },
+  {
+    "assetName": "Pittman PLC",
+    "businessCategory": "Energy",
+    "lat": 45.45484,
+    "lng": -73.82669,
+    "riskFactors": {
+      "extremeCold": 0.05,
+      "extremeHeat": 0.06,
+      "hurricane": 0,
+      "seaLevelRise": 0.01,
+      "earthquake": 0.03,
+      "tornado": 0.03,
+      "drought": 0.06,
+      "volcano": 0.01,
+      "flooding": 0.02,
+      "wildfire": 0.02
+    },
+    "riskRating": 0.29,
+    "year": "2060"
+  },
+  {
+    "assetName": "Pittman PLC",
+    "businessCategory": "Energy",
+    "lat": 45.45484,
+    "lng": -73.82669,
+    "riskFactors": {
+      "earthquake": 0.01,
+      "seaLevelRise": 0.02,
+      "extremeCold": 0.02,
+      "drought": 0.01,
+      "volcano": 0.03,
+      "tornado": 0.03,
+      "wildfire": 0.01,
+      "hurricane": 0,
+      "extremeHeat": 0.01,
+      "flooding": 0.01
+    },
+    "riskRating": 0.15,
+    "year": "2070"
+  },
+  {
+    "assetName": "Pittman PLC",
+    "businessCategory": "Energy",
+    "lat": 45.45484,
+    "lng": -73.82669,
+    "riskFactors": {
+      "seaLevelRise": 0.09,
+      "flooding": 0.07,
+      "hurricane": 0.07,
+      "earthquake": 0.02
+    },
+    "riskRating": 0.25,
+    "year": "2030"
+  },
+  {
+    "assetName": "Campos and Sons",
+    "businessCategory": "Finance",
+    "lat": 46.14249,
+    "lng": -60.17982,
+    "riskFactors": {
+      "earthquake": 0.26,
+      "extremeHeat": 0.02,
+      "extremeCold": 0.15,
+      "drought": 0.22,
+      "wildfire": 0.32
+    },
+    "riskRating": 0.97,
+    "year": "2040"
+  },
+  {
+    "assetName": "Campos and Sons",
+    "businessCategory": "Finance",
+    "lat": 46.14249,
+    "lng": -60.17982,
+    "riskFactors": {
+      "extremeCold": 0.22,
+      "seaLevelRise": 0.11,
+      "earthquake": 0.01
+    },
+    "riskRating": 0.34,
+    "year": "2050"
+  },
+  {
+    "assetName": "Campos and Sons",
+    "businessCategory": "Finance",
+    "lat": 46.14249,
+    "lng": -60.17982,
+    "riskFactors": {
+      "earthquake": 0.31,
+      "extremeHeat": 0.42
+    },
+    "riskRating": 0.73,
+    "year": "2060"
+  },
+  {
+    "assetName": "Campos and Sons",
+    "businessCategory": "Finance",
+    "lat": 46.14249,
+    "lng": -60.17982,
+    "riskFactors": {
+      "hurricane": 0.019999999999999997,
+      "volcano": 0.31,
+      "tornado": 0.34,
+      "drought": 0.28
+    },
+    "riskRating": 0.95,
+    "year": "2070"
+  },
+  {
+    "assetName": "Campos and Sons",
+    "businessCategory": "Finance",
+    "lat": 46.14249,
+    "lng": -60.17982,
+    "riskFactors": {
+      "earthquake": 0.02,
+      "drought": 0.04,
+      "hurricane": 0.09,
+      "seaLevelRise": 0.14,
+      "tornado": 0.01,
+      "extremeCold": 0.02,
+      "flooding": 0.04
+    },
+    "riskRating": 0.36,
+    "year": "2030"
+  },
+  {
+    "assetName": "Marks, Garrett and Cummings",
+    "businessCategory": "Finance",
+    "lat": 45.44589,
+    "lng": -73.87049,
+    "riskFactors": {
+      "hurricane": 0.019999999999999997,
+      "volcano": 0.02,
+      "tornado": 0.01,
+      "extremeCold": 0.04,
+      "earthquake": 0.02,
+      "wildfire": 0.02,
+      "flooding": 0,
+      "seaLevelRise": 0,
+      "drought": 0.02,
+      "extremeHeat": 0.04
+    },
+    "riskRating": 0.19,
+    "year": "2040"
+  },
+  {
+    "assetName": "Marks, Garrett and Cummings",
+    "businessCategory": "Finance",
+    "lat": 45.44589,
+    "lng": -73.87049,
+    "riskFactors": {
+      "drought": 0.09,
+      "seaLevelRise": 0.17,
+      "hurricane": 0.18
+    },
+    "riskRating": 0.44,
+    "year": "2050"
+  },
+  {
+    "assetName": "Marks, Garrett and Cummings",
+    "businessCategory": "Finance",
+    "lat": 45.44589,
+    "lng": -73.87049,
+    "riskFactors": {
+      "extremeCold": 0.04,
+      "wildfire": 0.03,
+      "earthquake": 0.01,
+      "extremeHeat": 0.01,
+      "volcano": 0.06,
+      "hurricane": 0.04
+    },
+    "riskRating": 0.19,
+    "year": "2060"
+  },
+  {
+    "assetName": "Marks, Garrett and Cummings",
+    "businessCategory": "Finance",
+    "lat": 45.44589,
+    "lng": -73.87049,
+    "riskFactors": {
+      "volcano": 0.01,
+      "tornado": 0.01,
+      "seaLevelRise": 0.01,
+      "flooding": 0.01,
+      "extremeHeat": 0.01
+    },
+    "riskRating": 0.05,
+    "year": "2070"
+  },
+  {
+    "assetName": "Marks, Garrett and Cummings",
+    "businessCategory": "Finance",
+    "lat": 45.44589,
+    "lng": -73.87049,
+    "riskFactors": {
+      "extremeHeat": 0.07,
+      "volcano": 0.08,
+      "seaLevelRise": 0.04,
+      "drought": 0.11,
+      "hurricane": 0.01,
+      "wildfire": 0.1,
+      "tornado": 0.09,
+      "extremeCold": 0.02,
+      "flooding": 0.1
+    },
+    "riskRating": 0.62,
+    "year": "2030"
+  },
+  {
+    "assetName": "Norton-Spencer",
+    "businessCategory": "Finance",
+    "lat": 45.39696,
+    "lng": -73.54919,
+    "riskFactors": {
+      "volcano": 0.16,
+      "extremeCold": 0.11,
+      "flooding": 0.05,
+      "wildfire": 0.11,
+      "earthquake": 0.16,
+      "drought": 0.1,
+      "extremeHeat": 0.1
+    },
+    "riskRating": 0.79,
+    "year": "2030"
+  },
+  {
+    "assetName": "Norton-Spencer",
+    "businessCategory": "Finance",
+    "lat": 45.39696,
+    "lng": -73.54919,
+    "riskFactors": {
+      "drought": 0.02,
+      "tornado": 0,
+      "seaLevelRise": 0,
+      "extremeHeat": 0,
+      "wildfire": 0,
+      "earthquake": 0,
+      "extremeCold": 0,
+      "volcano": 0,
+      "hurricane": 0
+    },
+    "riskRating": 0.02,
+    "year": "2040"
+  },
+  {
+    "assetName": "Norton-Spencer",
+    "businessCategory": "Finance",
+    "lat": 45.39696,
+    "lng": -73.54919,
+    "riskFactors": {
+      "wildfire": 0.03,
+      "flooding": 0.01,
+      "hurricane": 0.09,
+      "earthquake": 0.1,
+      "extremeHeat": 0.11,
+      "drought": 0.01
+    },
+    "riskRating": 0.35,
+    "year": "2050"
+  },
+  {
+    "assetName": "Norton-Spencer",
+    "businessCategory": "Finance",
+    "lat": 45.39696,
+    "lng": -73.54919,
+    "riskFactors": {
+      "extremeCold": 0.06,
+      "earthquake": 0.06,
+      "hurricane": 0.06
+    },
+    "riskRating": 0.18,
+    "year": "2060"
+  },
+  {
+    "assetName": "Norton-Spencer",
+    "businessCategory": "Finance",
+    "lat": 45.39696,
+    "lng": -73.54919,
+    "riskFactors": {
+      "flooding": 0.08,
+      "earthquake": 0.1,
+      "seaLevelRise": 0.07,
+      "tornado": 0.08,
+      "volcano": 0.04,
+      "extremeHeat": 0.12,
+      "drought": 0.11,
+      "extremeCold": 0.12
+    },
+    "riskRating": 0.72,
+    "year": "2070"
+  },
+  {
+    "assetName": "Wilkerson-Miranda",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45071,
+    "lng": -73.78075,
+    "riskFactors": {
+      "earthquake": 0.03,
+      "extremeCold": 0.05,
+      "seaLevelRise": 0.05,
+      "tornado": 0.03,
+      "extremeHeat": 0.01,
+      "flooding": 0.03,
+      "hurricane": 0.05,
+      "drought": 0.04
+    },
+    "riskRating": 0.29,
+    "year": "2030"
+  },
+  {
+    "assetName": "Wilkerson-Miranda",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45071,
+    "lng": -73.78075,
+    "riskFactors": {
+      "tornado": 0.06,
+      "extremeCold": 0.04,
+      "extremeHeat": 0.11
+    },
+    "riskRating": 0.21,
+    "year": "2040"
+  },
+  {
+    "assetName": "Wilkerson-Miranda",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45071,
+    "lng": -73.78075,
+    "riskFactors": {
+      "extremeCold": 0.28,
+      "flooding": 0.01
+    },
+    "riskRating": 0.29,
+    "year": "2060"
+  },
+  {
+    "assetName": "Wilkerson-Miranda",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45071,
+    "lng": -73.78075,
+    "riskFactors": {
+      "extremeHeat": 0.08,
+      "wildfire": 0.02,
+      "extremeCold": 0.09,
+      "earthquake": 0.06,
+      "seaLevelRise": 0.08
+    },
+    "riskRating": 0.33,
+    "year": "2070"
+  },
+  {
+    "assetName": "Wilkerson-Miranda",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45071,
+    "lng": -73.78075,
+    "riskFactors": {
+      "drought": 0.13,
+      "tornado": 0.11,
+      "extremeCold": 0.1,
+      "wildfire": 0.15,
+      "extremeHeat": 0.02,
+      "volcano": 0.16
+    },
+    "riskRating": 0.67,
+    "year": "2050"
+  },
+  {
+    "assetName": "Higgins, Brown and Vaughn",
+    "businessCategory": "Retail",
+    "lat": 42.83957,
+    "lng": -80.38408,
+    "riskFactors": {
+      "hurricane": 0.07,
+      "extremeCold": 0.44
+    },
+    "riskRating": 0.51,
+    "year": "2030"
+  },
+  {
+    "assetName": "Higgins, Brown and Vaughn",
+    "businessCategory": "Retail",
+    "lat": 42.83957,
+    "lng": -80.38408,
+    "riskFactors": {
+      "drought": 0.02,
+      "extremeCold": 0.01,
+      "volcano": 0.02,
+      "wildfire": 0.01,
+      "seaLevelRise": 0.03,
+      "extremeHeat": 0.03
+    },
+    "riskRating": 0.12,
+    "year": "2040"
+  },
+  {
+    "assetName": "Higgins, Brown and Vaughn",
+    "businessCategory": "Retail",
+    "lat": 42.83957,
+    "lng": -80.38408,
+    "riskFactors": {
+      "earthquake": -0.01,
+      "extremeHeat": 0.04,
+      "tornado": 0.01,
+      "drought": 0.02,
+      "seaLevelRise": 0.05
+    },
+    "riskRating": 0.11,
+    "year": "2060"
+  },
+  {
+    "assetName": "Higgins, Brown and Vaughn",
+    "businessCategory": "Retail",
+    "lat": 42.83957,
+    "lng": -80.38408,
+    "riskFactors": {
+      "volcano": 0.04,
+      "seaLevelRise": 0.07,
+      "earthquake": 0.08,
+      "tornado": 0.08,
+      "hurricane": 0.02,
+      "flooding": 0.02,
+      "wildfire": 0.03
+    },
+    "riskRating": 0.34,
+    "year": "2070"
+  },
+  {
+    "assetName": "Higgins, Brown and Vaughn",
+    "businessCategory": "Retail",
+    "lat": 42.83957,
+    "lng": -80.38408,
+    "riskFactors": {
+      "earthquake": 0.16,
+      "flooding": 0.44
+    },
+    "riskRating": 0.6,
+    "year": "2050"
+  },
+  {
+    "assetName": "Duke Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 50.26368,
+    "lng": -119.27418,
+    "riskFactors": {
+      "drought": 0.11,
+      "tornado": 0.14
+    },
+    "riskRating": 0.25,
+    "year": "2030"
+  },
+  {
+    "assetName": "Duke Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 50.26368,
+    "lng": -119.27418,
+    "riskFactors": {
+      "extremeHeat": 0.02,
+      "earthquake": 0,
+      "flooding": 0.02,
+      "tornado": 0.01,
+      "hurricane": 0.01,
+      "extremeCold": 0,
+      "wildfire": 0.01
+    },
+    "riskRating": 0.07,
+    "year": "2040"
+  },
+  {
+    "assetName": "Duke Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 50.26368,
+    "lng": -119.27418,
+    "riskFactors": {
+      "drought": 0.03
+    },
+    "riskRating": 0.03,
+    "year": "2050"
+  },
+  {
+    "assetName": "Duke Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 50.26368,
+    "lng": -119.27418,
+    "riskFactors": {
+      "earthquake": 0.43
+    },
+    "riskRating": 0.43,
+    "year": "2070"
+  },
+  {
+    "assetName": "Duke Ltd",
+    "businessCategory": "Manufacturing",
+    "lat": 50.26368,
+    "lng": -119.27418,
+    "riskFactors": {
+      "wildfire": 0.04,
+      "extremeHeat": 0.04,
+      "drought": 0.07,
+      "tornado": 0.07,
+      "earthquake": 0.04,
+      "hurricane": 0.02
+    },
+    "riskRating": 0.28,
+    "year": "2060"
+  },
+  {
+    "assetName": "Gray-Evans",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45141,
+    "lng": -73.8302,
+    "riskFactors": {
+      "extremeCold": 0.02,
+      "earthquake": 0,
+      "drought": 0.01,
+      "volcano": 0,
+      "extremeHeat": 0.01,
+      "flooding": 0.01,
+      "tornado": 0.01,
+      "hurricane": 0,
+      "seaLevelRise": 0.01,
+      "wildfire": 0
+    },
+    "riskRating": 0.07,
+    "year": "2030"
+  },
+  {
+    "assetName": "Gray-Evans",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45141,
+    "lng": -73.8302,
+    "riskFactors": {
+      "wildfire": 0.06
+    },
+    "riskRating": 0.06,
+    "year": "2040"
+  },
+  {
+    "assetName": "Gray-Evans",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45141,
+    "lng": -73.8302,
+    "riskFactors": {
+      "earthquake": 0.24,
+      "hurricane": 0.05,
+      "wildfire": 0.06,
+      "extremeCold": 0.25,
+      "seaLevelRise": 0.1
+    },
+    "riskRating": 0.7,
+    "year": "2050"
+  },
+  {
+    "assetName": "Gray-Evans",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45141,
+    "lng": -73.8302,
+    "riskFactors": {
+      "seaLevelRise": 0.09999999999999999,
+      "volcano": 0.14,
+      "hurricane": 0.12,
+      "earthquake": 0.06,
+      "extremeHeat": 0.07,
+      "wildfire": 0,
+      "extremeCold": 0.12,
+      "tornado": 0.13
+    },
+    "riskRating": 0.74,
+    "year": "2070"
+  },
+  {
+    "assetName": "Gray-Evans",
+    "businessCategory": "Manufacturing",
+    "lat": 45.45141,
+    "lng": -73.8302,
+    "riskFactors": {
+      "drought": 0.03,
+      "volcano": 0.04,
+      "hurricane": 0.01,
+      "extremeCold": 0.01,
+      "seaLevelRise": 0.03
+    },
+    "riskRating": 0.12,
+    "year": "2060"
+  },
+  {
+    "assetName": "Rodriguez, Roberts and Fuller",
+    "businessCategory": "Healthcare",
+    "lat": 53.52489,
+    "lng": -113.31783,
+    "riskFactors": {
+      "extremeHeat": 0,
+      "flooding": 0,
+      "tornado": 0,
+      "wildfire": 0,
+      "earthquake": 0,
+      "seaLevelRise": 0,
+      "hurricane": 0
+    },
+    "riskRating": 0,
+    "year": "2030"
+  },
+  {
+    "assetName": "Rodriguez, Roberts and Fuller",
+    "businessCategory": "Healthcare",
+    "lat": 53.52489,
+    "lng": -113.31783,
+    "riskFactors": {
+      "extremeCold": 0,
+      "wildfire": 0.01
+    },
+    "riskRating": 0.01,
+    "year": "2050"
+  },
+  {
+    "assetName": "Rodriguez, Roberts and Fuller",
+    "businessCategory": "Healthcare",
+    "lat": 53.52489,
+    "lng": -113.31783,
+    "riskFactors": {
+      "seaLevelRise": 0.03,
+      "volcano": 0.09,
+      "tornado": 0.1,
+      "hurricane": 0.06
+    },
+    "riskRating": 0.28,
+    "year": "2060"
+  },
+  {
+    "assetName": "Rodriguez, Roberts and Fuller",
+    "businessCategory": "Healthcare",
+    "lat": 53.52489,
+    "lng": -113.31783,
+    "riskFactors": {
+      "extremeHeat": 0.01,
+      "drought": 0,
+      "hurricane": 0,
+      "extremeCold": 0,
+      "volcano": 0
+    },
+    "riskRating": 0.01,
+    "year": "2070"
+  },
+  {
+    "assetName": "Rodriguez, Roberts and Fuller",
+    "businessCategory": "Healthcare",
+    "lat": 53.52489,
+    "lng": -113.31783,
+    "riskFactors": {
+      "flooding": 0.16
+    },
+    "riskRating": 0.16,
+    "year": "2040"
+  },
+  {
+    "assetName": "Roberts, Burke and Williams",
+    "businessCategory": "Retail",
+    "lat": 50.26321,
+    "lng": -119.28034,
+    "riskFactors": {
+      "flooding": 0.01,
+      "tornado": 0.02,
+      "wildfire": 0,
+      "extremeCold": 0.02
+    },
+    "riskRating": 0.05,
+    "year": "2040"
+  },
+  {
+    "assetName": "Roberts, Burke and Williams",
+    "businessCategory": "Retail",
+    "lat": 50.26321,
+    "lng": -119.28034,
+    "riskFactors": {
+      "earthquake": 0.11,
+      "wildfire": 0.03,
+      "hurricane": 0.03,
+      "tornado": 0.12,
+      "extremeCold": 0.06,
+      "extremeHeat": 0.03,
+      "flooding": 0.1,
+      "seaLevelRise": 0.12,
+      "volcano": 0.12
+    },
+    "riskRating": 0.72,
+    "year": "2050"
+  },
+  {
+    "assetName": "Roberts, Burke and Williams",
+    "businessCategory": "Retail",
+    "lat": 50.26321,
+    "lng": -119.28034,
+    "riskFactors": {
+      "hurricane": 0.01,
+      "earthquake": 0.01,
+      "volcano": 0.21,
+      "wildfire": 0.08,
+      "drought": 0.11
+    },
+    "riskRating": 0.42,
+    "year": "2060"
+  },
+  {
+    "assetName": "Roberts, Burke and Williams",
+    "businessCategory": "Retail",
+    "lat": 50.26321,
+    "lng": -119.28034,
+    "riskFactors": {
+      "seaLevelRise": 0.17,
+      "extremeHeat": 0.15,
+      "wildfire": 0.18
+    },
+    "riskRating": 0.5,
+    "year": "2070"
+  },
+  {
+    "assetName": "Roberts, Burke and Williams",
+    "businessCategory": "Retail",
+    "lat": 50.26321,
+    "lng": -119.28034,
+    "riskFactors": {
+      "extremeHeat": 0.1,
+      "flooding": 0.14,
+      "tornado": 0.15,
+      "volcano": 0.09,
+      "wildfire": 0,
+      "seaLevelRise": 0.09,
+      "earthquake": 0.04,
+      "hurricane": 0.09,
+      "drought": 0.08,
+      "extremeCold": 0.12
+    },
+    "riskRating": 0.9,
+    "year": "2030"
+  },
+  {
+    "assetName": "Clarke, Lutz and Farrell",
+    "businessCategory": "Energy",
+    "lat": 45.39813,
+    "lng": -73.6343,
+    "riskFactors": {
+      "seaLevelRise": 0.19,
+      "wildfire": 0.12,
+      "earthquake": 0.33,
+      "hurricane": 0.35
+    },
+    "riskRating": 0.99,
+    "year": "2030"
+  },
+  {
+    "assetName": "Clarke, Lutz and Farrell",
+    "businessCategory": "Energy",
+    "lat": 45.39813,
+    "lng": -73.6343,
+    "riskFactors": {
+      "extremeCold": 0.15,
+      "wildfire": 0.05,
+      "earthquake": 0.23,
+      "drought": 0.14,
+      "volcano": 0.21,
+      "seaLevelRise": 0.18
+    },
+    "riskRating": 0.96,
+    "year": "2040"
+  },
+  {
+    "assetName": "Clarke, Lutz and Farrell",
+    "businessCategory": "Energy",
+    "lat": 45.39813,
+    "lng": -73.6343,
+    "riskFactors": {
+      "extremeHeat": 0.26,
+      "earthquake": 0.12,
+      "drought": 0.07,
+      "extremeCold": 0.25,
+      "hurricane": 0.11,
+      "tornado": 0.12
+    },
+    "riskRating": 0.93,
+    "year": "2060"
+  },
+  {
+    "assetName": "Clarke, Lutz and Farrell",
+    "businessCategory": "Energy",
+    "lat": 45.39813,
+    "lng": -73.6343,
+    "riskFactors": {
+      "extremeCold": 0,
+      "earthquake": 0.01,
+      "extremeHeat": 0.01,
+      "hurricane": 0.03,
+      "volcano": 0.03,
+      "flooding": 0.01,
+      "seaLevelRise": 0.02,
+      "tornado": 0
+    },
+    "riskRating": 0.11,
+    "year": "2070"
+  },
+  {
+    "assetName": "Clarke, Lutz and Farrell",
+    "businessCategory": "Energy",
+    "lat": 45.39813,
+    "lng": -73.6343,
+    "riskFactors": {
+      "volcano": 0.08,
+      "tornado": 0.02,
+      "earthquake": 0.06,
+      "flooding": 0.03,
+      "extremeCold": 0.08,
+      "drought": 0.07,
+      "seaLevelRise": 0.11,
+      "hurricane": 0.03,
+      "wildfire": 0.05,
+      "extremeHeat": 0.11
+    },
+    "riskRating": 0.64,
+    "year": "2050"
+  },
+  {
+    "assetName": "Torres-Sanchez",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4419,
+    "lng": -73.81181,
+    "riskFactors": {
+      "earthquake": 0.12,
+      "hurricane": 0.12,
+      "seaLevelRise": 0.01,
+      "extremeHeat": 0.15,
+      "volcano": 0.11,
+      "drought": 0.09,
+      "extremeCold": 0.08,
+      "wildfire": 0.01,
+      "flooding": 0.17
+    },
+    "riskRating": 0.86,
+    "year": "2040"
+  },
+  {
+    "assetName": "Torres-Sanchez",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4419,
+    "lng": -73.81181,
+    "riskFactors": {
+      "seaLevelRise": 0.04,
+      "wildfire": 0.05,
+      "volcano": 0.06,
+      "drought": 0.04,
+      "hurricane": 0.08,
+      "tornado": 0.01,
+      "earthquake": 0.03,
+      "flooding": 0.09,
+      "extremeHeat": 0.06
+    },
+    "riskRating": 0.46,
+    "year": "2050"
+  },
+  {
+    "assetName": "Torres-Sanchez",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4419,
+    "lng": -73.81181,
+    "riskFactors": {
+      "earthquake": 0.96
+    },
+    "riskRating": 0.96,
+    "year": "2060"
+  },
+  {
+    "assetName": "Torres-Sanchez",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4419,
+    "lng": -73.81181,
+    "riskFactors": {
+      "drought": 0.03,
+      "tornado": 0.06,
+      "flooding": 0.17,
+      "volcano": 0.21,
+      "seaLevelRise": 0.11
+    },
+    "riskRating": 0.58,
+    "year": "2070"
+  },
+  {
+    "assetName": "Torres-Sanchez",
+    "businessCategory": "Manufacturing",
+    "lat": 45.4419,
+    "lng": -73.81181,
+    "riskFactors": {
+      "earthquake": 0.03,
+      "wildfire": 0.07,
+      "flooding": 0.04,
+      "seaLevelRise": 0.07,
+      "volcano": 0.05,
+      "tornado": 0.02
+    },
+    "riskRating": 0.28,
+    "year": "2030"
+  },
+  {
+    "assetName": "Thompson, Davis and Brown",
+    "businessCategory": "Finance",
+    "lat": 45.43128,
+    "lng": -73.88695,
+    "riskFactors": {
+      "hurricane": 0.13,
+      "earthquake": 0.06,
+      "extremeCold": 0.07
+    },
+    "riskRating": 0.26,
+    "year": "2030"
+  },
+  {
+    "assetName": "Thompson, Davis and Brown",
+    "businessCategory": "Finance",
+    "lat": 45.43128,
+    "lng": -73.88695,
+    "riskFactors": {
+      "tornado": 0.15,
+      "earthquake": 0.03,
+      "flooding": 0.04,
+      "volcano": 0.08,
+      "seaLevelRise": 0.14,
+      "extremeHeat": 0.18,
+      "wildfire": 0.12,
+      "extremeCold": 0.06
+    },
+    "riskRating": 0.8,
+    "year": "2040"
+  },
+  {
+    "assetName": "Thompson, Davis and Brown",
+    "businessCategory": "Finance",
+    "lat": 45.43128,
+    "lng": -73.88695,
+    "riskFactors": {
+      "extremeHeat": 0.04,
+      "tornado": 0.03,
+      "wildfire": 0.01,
+      "hurricane": 0.01,
+      "drought": 0.03,
+      "volcano": 0.02
+    },
+    "riskRating": 0.14,
+    "year": "2060"
+  },
+  {
+    "assetName": "Thompson, Davis and Brown",
+    "businessCategory": "Finance",
+    "lat": 45.43128,
+    "lng": -73.88695,
+    "riskFactors": {
+      "hurricane": 0.79
+    },
+    "riskRating": 0.79,
+    "year": "2070"
+  },
+  {
+    "assetName": "Thompson, Davis and Brown",
+    "businessCategory": "Finance",
+    "lat": 45.43128,
+    "lng": -73.88695,
+    "riskFactors": {
+      "extremeCold": 0.02,
+      "extremeHeat": 0,
+      "flooding": 0,
+      "tornado": 0,
+      "earthquake": 0,
+      "drought": 0,
+      "seaLevelRise": 0,
+      "hurricane": 0,
+      "wildfire": 0,
+      "volcano": 0
+    },
+    "riskRating": 0.02,
+    "year": "2050"
+  },
+  {
+    "assetName": "Walker, Hogan and Mendez",
+    "businessCategory": "Energy",
+    "lat": 42.82535,
+    "lng": -80.38394,
+    "riskFactors": {
+      "extremeHeat": 0.11,
+      "seaLevelRise": 0.17
+    },
+    "riskRating": 0.28,
+    "year": "2030"
+  },
+  {
+    "assetName": "Walker, Hogan and Mendez",
+    "businessCategory": "Energy",
+    "lat": 42.82535,
+    "lng": -80.38394,
+    "riskFactors": {
+      "extremeCold": 0.11,
+      "tornado": 0.36,
+      "extremeHeat": 0.09
+    },
+    "riskRating": 0.56,
+    "year": "2040"
+  },
+  {
+    "assetName": "Walker, Hogan and Mendez",
+    "businessCategory": "Energy",
+    "lat": 42.82535,
+    "lng": -80.38394,
+    "riskFactors": {
+      "tornado": 0.65
+    },
+    "riskRating": 0.65,
+    "year": "2050"
+  },
+  {
+    "assetName": "Walker, Hogan and Mendez",
+    "businessCategory": "Energy",
+    "lat": 42.82535,
+    "lng": -80.38394,
+    "riskFactors": {
+      "volcano": 0.02,
+      "seaLevelRise": 0.01,
+      "extremeHeat": 0.03,
+      "wildfire": 0.02,
+      "extremeCold": 0.04,
+      "earthquake": 0.03,
+      "flooding": 0,
+      "drought": 0.02
+    },
+    "riskRating": 0.17,
+    "year": "2060"
+  },
+  {
+    "assetName": "Walker, Hogan and Mendez",
+    "businessCategory": "Energy",
+    "lat": 42.82535,
+    "lng": -80.38394,
+    "riskFactors": {
+      "volcano": 0.02,
+      "tornado": 0.02,
+      "wildfire": 0.01,
+      "earthquake": 0.02,
+      "extremeHeat": 0.02,
+      "extremeCold": 0.01,
+      "flooding": 0.02,
+      "drought": 0.01,
+      "hurricane": 0
+    },
+    "riskRating": 0.13,
+    "year": "2070"
+  },
+  {
+    "assetName": "Patel-Brooks",
+    "businessCategory": "Healthcare",
+    "lat": 42.83513,
+    "lng": -80.38328,
+    "riskFactors": {
+      "extremeHeat": 0.07,
+      "volcano": 0.08,
+      "drought": 0.09,
+      "wildfire": 0.05
+    },
+    "riskRating": 0.29,
+    "year": "2030"
+  },
+  {
+    "assetName": "Patel-Brooks",
+    "businessCategory": "Healthcare",
+    "lat": 42.83513,
+    "lng": -80.38328,
+    "riskFactors": {
+      "drought": 0.019999999999999997,
+      "extremeHeat": 0.04,
+      "flooding": 0.01,
+      "wildfire": 0.02,
+      "volcano": 0.09,
+      "earthquake": 0.04,
+      "tornado": 0.06,
+      "seaLevelRise": 0.05
+    },
+    "riskRating": 0.33,
+    "year": "2040"
+  },
+  {
+    "assetName": "Patel-Brooks",
+    "businessCategory": "Healthcare",
+    "lat": 42.83513,
+    "lng": -80.38328,
+    "riskFactors": {
+      "tornado": 0.97
+    },
+    "riskRating": 0.97,
+    "year": "2050"
+  },
+  {
+    "assetName": "Patel-Brooks",
+    "businessCategory": "Healthcare",
+    "lat": 42.83513,
+    "lng": -80.38328,
+    "riskFactors": {
+      "drought": 0.03
+    },
+    "riskRating": 0.03,
+    "year": "2060"
+  },
+  {
+    "assetName": "Patel-Brooks",
+    "businessCategory": "Healthcare",
+    "lat": 42.83513,
+    "lng": -80.38328,
+    "riskFactors": {
+      "wildfire": 0,
+      "drought": 0,
+      "volcano": 0,
+      "earthquake": 0,
+      "tornado": 0,
+      "extremeCold": 0,
+      "hurricane": 0,
+      "seaLevelRise": 0,
+      "extremeHeat": 0
+    },
+    "riskRating": 0,
+    "year": "2070"
+  },
+  {
+    "assetName": "Sullivan-Curtis",
+    "businessCategory": "Energy",
+    "lat": 49.88108,
+    "lng": -119.47879,
+    "riskFactors": {
+      "seaLevelRise": 0.45,
+      "tornado": 0.08
+    },
+    "riskRating": 0.53,
+    "year": "2030"
+  },
+  {
+    "assetName": "Sullivan-Curtis",
+    "businessCategory": "Energy",
+    "lat": 49.88108,
+    "lng": -119.47879,
+    "riskFactors": {
+      "earthquake": 0.41
+    },
+    "riskRating": 0.41,
+    "year": "2040"
+  },
+  {
+    "assetName": "Sullivan-Curtis",
+    "businessCategory": "Energy",
+    "lat": 49.88108,
+    "lng": -119.47879,
+    "riskFactors": {
+      "wildfire": 0.08,
+      "drought": 0.06
+    },
+    "riskRating": 0.14,
+    "year": "2050"
+  },
+  {
+    "assetName": "Sullivan-Curtis",
+    "businessCategory": "Energy",
+    "lat": 49.88108,
+    "lng": -119.47879,
+    "riskFactors": {
+      "drought": 0.15,
+      "flooding": 0.1,
+      "extremeCold": 0.04
+    },
+    "riskRating": 0.29,
+    "year": "2070"
+  },
+  {
+    "assetName": "Sullivan-Curtis",
+    "businessCategory": "Energy",
+    "lat": 49.88108,
+    "lng": -119.47879,
+    "riskFactors": {
+      "hurricane": 0.12,
+      "earthquake": 0.11,
+      "extremeHeat": 0.11,
+      "tornado": 0.08,
+      "seaLevelRise": 0.1,
+      "flooding": 0.01,
+      "volcano": 0.02,
+      "wildfire": 0.11
+    },
+    "riskRating": 0.66,
+    "year": "2060"
+  },
+  {
+    "assetName": "Anderson Group",
+    "businessCategory": "Manufacturing",
+    "lat": 53.52272,
+    "lng": -113.32465,
+    "riskFactors": {
+      "drought": 0,
+      "hurricane": 0.19,
+      "seaLevelRise": 0.16,
+      "volcano": 0.13,
+      "extremeHeat": 0.15
+    },
+    "riskRating": 0.63,
+    "year": "2030"
+  },
+  {
+    "assetName": "Anderson Group",
+    "businessCategory": "Manufacturing",
+    "lat": 53.52272,
+    "lng": -113.32465,
+    "riskFactors": {
+      "extremeHeat": 0.64
+    },
+    "riskRating": 0.64,
+    "year": "2050"
+  },
+  {
+    "assetName": "Anderson Group",
+    "businessCategory": "Manufacturing",
+    "lat": 53.52272,
+    "lng": -113.32465,
+    "riskFactors": {
+      "hurricane": 0.86
+    },
+    "riskRating": 0.86,
+    "year": "2060"
+  },
+  {
+    "assetName": "Anderson Group",
+    "businessCategory": "Manufacturing",
+    "lat": 53.52272,
+    "lng": -113.32465,
+    "riskFactors": {
+      "extremeHeat": 0.09,
+      "flooding": 0.14,
+      "volcano": 0.05
+    },
+    "riskRating": 0.28,
+    "year": "2070"
+  },
+  {
+    "assetName": "Anderson Group",
+    "businessCategory": "Manufacturing",
+    "lat": 53.52272,
+    "lng": -113.32465,
+    "riskFactors": {
+      "extremeCold": 0.1,
+      "volcano": 0.25,
+      "seaLevelRise": 0.53,
+      "earthquake": 0.02
+    },
+    "riskRating": 0.9,
+    "year": "2040"
+  },
+  {
+    "assetName": "Obrien-Oneill",
+    "businessCategory": "Retail",
+    "lat": 43.86315,
+    "lng": -79.27376,
+    "riskFactors": {
+      "hurricane": 0.13,
+      "volcano": 0.71
+    },
+    "riskRating": 0.84,
+    "year": "2030"
+  },
+  {
+    "assetName": "Obrien-Oneill",
+    "businessCategory": "Retail",
+    "lat": 43.86315,
+    "lng": -79.27376,
+    "riskFactors": {
+      "hurricane": 0.08,
+      "flooding": 0.09,
+      "extremeHeat": 0.1,
+      "wildfire": 0.12,
+      "drought": 0.02,
+      "seaLevelRise": 0.09,
+      "volcano": 0.03,
+      "earthquake": 0.13,
+      "tornado": 0.04,
+      "extremeCold": 0.05
+    },
+    "riskRating": 0.75,
+    "year": "2040"
+  },
+  {
+    "assetName": "Obrien-Oneill",
+    "businessCategory": "Retail",
+    "lat": 43.86315,
+    "lng": -79.27376,
+    "riskFactors": {
+      "flooding": 0.34,
+      "earthquake": 0.5
+    },
+    "riskRating": 0.84,
+    "year": "2050"
+  },
+  {
+    "assetName": "Obrien-Oneill",
+    "businessCategory": "Retail",
+    "lat": 43.86315,
+    "lng": -79.27376,
+    "riskFactors": {
+      "flooding": 0.19,
+      "extremeHeat": 0.13,
+      "extremeCold": 0.02,
+      "earthquake": 0.04,
+      "drought": 0.19,
+      "seaLevelRise": 0.16
+    },
+    "riskRating": 0.73,
+    "year": "2060"
+  },
+  {
+    "assetName": "Obrien-Oneill",
+    "businessCategory": "Retail",
+    "lat": 43.86315,
+    "lng": -79.27376,
+    "riskFactors": {
+      "drought": 0.16,
+      "wildfire": 0.31
+    },
+    "riskRating": 0.47,
+    "year": "2070"
+  }
+]

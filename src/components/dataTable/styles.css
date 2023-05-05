@@ -1,0 +1,14 @@
+.data-table-container {
+    height: 100%;
+    width: 100%;
+}
+
+.MuiDataGrid-row:nth-child(even) {
+    background-color: rgb(59 130 246 / 0.1);
+    width: 100%
+}
+
+.MuiDataGrid-columnHeaders {
+    background-color: rgb(244,244,244);
+    font-weight: bold;
+}

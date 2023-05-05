@@ -1,0 +1,13 @@
+.map-container {
+    height: 100%;
+    width: 100%;
+}
+
+.map-content {
+    height: calc(100% - 20px);
+}
+
+.risk-gradient-container {
+    display: flex;
+    justify-content: flex-end;
+}
